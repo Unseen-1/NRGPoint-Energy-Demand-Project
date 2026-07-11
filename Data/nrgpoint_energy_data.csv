@@ -1,0 +1,1462 @@
+Date,Temperature_C,Humidity_pct,Precipitation_mm,Wind_Speed_kmh,Condition,Season,Month,Year,Energy_Demand_MWh
+2020-01-01,-0.5,65.2,2.1,10.4,Snowy,Winter,January,2020,877.39
+2020-01-02,-2.4,73.3,0.2,12.1,Snowy,Winter,January,2020,917.76
+2020-01-03,-0.1,68.2,16.3,14.2,Rainy,Winter,January,2020,869.96
+2020-01-04,2.6,70.4,5.5,14.739492242595203,Drizzle,Winter,January,2020,787.48
+2020-01-05,-2.7,79.7,5.653808180535966,17.8,Snowy,Winter,January,2020,890.2
+2020-01-06,-2.7,88.4,1.5,8.4,Snowy,Winter,January,2020,924.7
+2020-01-07,2.7,78.2,4.7,14.5,Partly Cloudy,Winter,January,2020,820.99
+2020-01-08,0.3,65.4,5.7,13.8,Drizzle,Winter,January,2020,861.97
+2020-01-09,-3.4,78.6,1.9,9.1,Snowy,Winter,January,2020,941.08
+2020-01-10,-0.4,84.6,9.4,14.5,Snowy,Winter,January,2020,875.71
+2020-01-11,-15.2,70.1,14.7,13.5,Snowy,Winter,January,2020,1383.85
+2020-01-12,-3.4,73.9,10.8,13.2,Snowy,Winter,January,2020,906.67
+2020-01-13,-1.3,75.1,6.7,13.0,Snowy,Winter,January,2020,894.1
+2020-01-14,-7.7,68.7,1.6,14.739492242595203,Snowy,Winter,January,2020,1056.6
+2020-01-15,-7.2,80.2,1.7,13.2,Snowy,Winter,January,2020,1042.37
+2020-01-16,15.139844851904092,74.0,16.5,15.2,Rainy,Winter,January,2020,577.24
+2020-01-17,-5.0,78.4,0.1,14.7,Snowy,Winter,January,2020,980.93
+2020-01-18,-1.1,67.9,6.3,12.5,Snowy,Winter,January,2020,855.55
+2020-01-19,-4.7,71.5,6.1,15.4,Snowy,Winter,January,2020,938.76
+2020-01-20,-6.2,80.8,4.9,15.3,Snowy,Winter,January,2020,1013.34
+2020-01-21,2.4,72.0,23.1,15.4,Rainy,Winter,January,2020,825.38
+2020-01-22,-2.7,88.8,1.9,10.7,Snowy,Winter,January,2020,924.91
+2020-01-23,-1.8,71.8,2.1,14.0,Snowy,Winter,January,2020,904.6
+2020-01-24,-6.3,76.8,0.4,18.8,Snowy,Winter,January,2020,1016.65
+2020-01-25,-3.6,82.5,2.9,14.739492242595203,Snowy,Winter,January,2020,911.19
+2020-01-26,-1.7,63.7,5.653808180535966,15.8,Snowy,Winter,January,2020,868.19
+2020-01-27,-5.5,60.9,2.1,15.8,Snowy,Winter,January,2020,994.9
+2020-01-28,-0.9,62.8,9.0,17.1,Snowy,Winter,January,2020,885.79
+2020-01-29,-3.8,85.1,13.7,17.8,Snowy,Winter,January,2020,950.83
+2020-01-30,-2.9,70.6,1.0,14.1,Snowy,Winter,January,2020,929.55
+2020-01-31,-3.8,95.5,2.3,10.4,Snowy,Winter,January,2020,950.8
+2020-02-01,6.6,67.5,10.6,8.9,Drizzle,Winter,February,2020,710.7
+2020-02-02,1.0,73.5,0.3,20.1,Partly Cloudy,Winter,February,2020,789.25
+2020-02-03,-2.2,84.3,0.4,18.9,Snowy,Winter,February,2020,888.62
+2020-02-04,3.5,88.0,0.7,18.2,Cloudy,Winter,February,2020,783.42
+2020-02-05,-2.7,64.25148095909732,3.6,19.1,Snowy,Winter,February,2020,900.03
+2020-02-06,1.6,81.7,0.7,14.2,Cloudy,Winter,February,2020,813.83
+2020-02-07,-4.9,64.25148095909732,13.8,11.9,Snowy,Winter,February,2020,953.82
+2020-02-08,-3.0,76.7,2.4,14.739492242595203,Snowy,Winter,February,2020,872.31
+2020-02-09,1.6,78.2,2.8,9.6,Partly Cloudy,Winter,February,2020,779.03
+2020-02-10,3.2,67.6,1.1,21.1,Partly Cloudy,Winter,February,2020,788.21
+2020-02-11,1.5,65.5,2.5,12.5,Partly Cloudy,Winter,February,2020,815.44
+2020-02-12,0.7,72.0,4.3,20.3,Partly Cloudy,Winter,February,2020,829.13
+2020-02-13,0.1,70.6,5.6,14.1,Drizzle,Winter,February,2020,840.72
+2020-02-14,15.139844851904092,68.4,5.6,11.6,Snowy,Winter,February,2020,554.34
+2020-02-15,-1.2,77.6,3.4,9.5,Snowy,Winter,February,2020,832.62
+2020-02-16,-0.4,79.6,9.4,12.1,Snowy,Winter,February,2020,816.13
+2020-02-17,4.2,72.7,6.8,22.1,Drizzle,Winter,February,2020,773.68
+2020-02-18,2.0,64.25148095909732,5.7,9.6,Cloudy,Winter,February,2020,807.15
+2020-02-19,-4.3,62.9,0.2,25.6,Snowy,Winter,February,2020,938.36
+2020-02-20,2.0,70.5,0.0,10.8,Partly Cloudy,Winter,February,2020,806.66
+2020-02-21,-0.2,66.3,1.0,18.7,Snowy,Winter,February,2020,846.92
+2020-02-22,-1.0,57.1,4.4,14.3,Snowy,Winter,February,2020,827.87
+2020-02-23,2.8,71.3,2.1,13.4,Partly Cloudy,Winter,February,2020,759.92
+2020-02-24,4.1,71.0,2.1,8.6,Partly Cloudy,Winter,February,2020,775.21
+2020-02-25,3.8,84.1,8.6,14.5,Cloudy,Winter,February,2020,779.37
+2020-02-26,-1.5,77.0,9.0,9.2,Snowy,Winter,February,2020,872.97
+2020-02-27,0.1,63.8,9.6,6.6,Drizzle,Winter,February,2020,840.52
+2020-02-28,2.0,86.8,1.5,15.6,Cloudy,Winter,February,2020,806.84
+2020-02-29,3.9,81.8,4.7,11.8,Cloudy,Winter,February,2020,743.74
+2020-03-01,6.6,69.7,1.9,23.4,Partly Cloudy,Spring,March,2020,565.76
+2020-03-02,7.4,63.2,1.3,20.0,Partly Cloudy,Spring,March,2020,590.61
+2020-03-03,4.7,57.3,1.2,23.5,Partly Cloudy,Spring,March,2020,612.8
+2020-03-04,4.4,62.0,2.5,11.6,Partly Cloudy,Spring,March,2020,616.11
+2020-03-05,15.139844851904092,73.7,3.4,15.7,Partly Cloudy,Spring,March,2020,534.49
+2020-03-06,12.1,80.1,10.7,1.9,Cloudy,Spring,March,2020,571.35
+2020-03-07,7.8,77.3,0.8,13.6,Partly Cloudy,Spring,March,2020,557.5
+2020-03-08,11.0,61.1,8.0,15.5,Drizzle,Spring,March,2020,543.69
+2020-03-09,9.1,56.0,4.5,15.8,Partly Cloudy,Spring,March,2020,580.33
+2020-03-10,6.1,66.1,5.653808180535966,14.8,Partly Cloudy,Spring,March,2020,599.8
+2020-03-11,9.1,50.9,4.1,15.3,Partly Cloudy,Spring,March,2020,580.32
+2020-03-12,12.6,67.6,2.1,1.4,Partly Cloudy,Spring,March,2020,571.31
+2020-03-13,7.9,63.8,5.4,16.3,Drizzle,Spring,March,2020,586.95
+2020-03-14,12.7,61.3,3.4,17.4,Partly Cloudy,Spring,March,2020,541.09
+2020-03-15,0.1,52.2,1.1,21.7,Partly Cloudy,Spring,March,2020,642.11
+2020-03-16,10.5,69.1,0.7,16.8,Partly Cloudy,Spring,March,2020,574.7
+2020-03-17,8.3,60.7,4.7,14.3,Partly Cloudy,Spring,March,2020,584.31
+2020-03-18,7.1,55.6,14.0,20.5,Drizzle,Spring,March,2020,592.37
+2020-03-19,8.3,42.0,2.5,3.2,Partly Cloudy,Spring,March,2020,584.43
+2020-03-20,2.0,64.8,7.9,12.4,Drizzle,Spring,March,2020,644.71
+2020-03-21,7.3,79.2,6.4,11.2,Drizzle,Spring,March,2020,561.28
+2020-03-22,9.1,78.3,16.1,14.8,Rainy,Spring,March,2020,550.21
+2020-03-23,12.4,61.3,10.3,4.0,Drizzle,Spring,March,2020,571.6
+2020-03-24,6.4,60.2,5.0,21.6,Partly Cloudy,Spring,March,2020,598.02
+2020-03-25,5.6,68.8,5.653808180535966,13.8,Drizzle,Spring,March,2020,604.2
+2020-03-26,6.5,57.0,13.7,16.6,Drizzle,Spring,March,2020,596.81
+2020-03-27,10.7,67.4,3.1,16.1,Partly Cloudy,Spring,March,2020,574.78
+2020-03-28,9.0,71.1,2.4,21.3,Partly Cloudy,Spring,March,2020,550.82
+2020-03-29,6.4,74.8,0.1,5.7,Partly Cloudy,Spring,March,2020,567.73
+2020-03-30,9.5,64.2,10.5,15.6,Drizzle,Spring,March,2020,578.98
+2020-03-31,8.3,64.25148095909732,9.7,20.7,Drizzle,Spring,March,2020,584.56
+2020-04-01,17.9,53.0,0.9,14.5,Partly Cloudy,Spring,April,2020,526.86
+2020-04-02,12.9,53.4,6.9,10.2,Drizzle,Spring,April,2020,512.69
+2020-04-03,15.139844851904092,58.2,5.0,12.0,Partly Cloudy,Spring,April,2020,505.98
+2020-04-04,13.8,62.9,1.0,13.0,Partly Cloudy,Spring,April,2020,483.26
+2020-04-05,10.6,67.3,31.5,11.4,Rainy,Spring,April,2020,486.43
+2020-04-06,15.9,53.6,1.9,14.2,Partly Cloudy,Spring,April,2020,517.49
+2020-04-07,15.8,71.9,0.6,22.5,Partly Cloudy,Spring,April,2020,517.11
+2020-04-08,15.0,57.8,7.2,12.0,Drizzle,Spring,April,2020,515.13
+2020-04-09,14.3,59.8,10.7,12.6,Drizzle,Spring,April,2020,513.63
+2020-04-10,10.8,54.0,0.3,17.3,Partly Cloudy,Spring,April,2020,515.4
+2020-04-11,13.7,40.6,8.6,14.1,Drizzle,Spring,April,2020,483.3
+2020-04-12,15.139844851904092,67.1,6.1,14.739492242595203,Drizzle,Spring,April,2020,475.6
+2020-04-13,12.6,65.9,0.9,14.7,Partly Cloudy,Spring,April,2020,512.8
+2020-04-14,14.5,57.7,1.5,14.5,Partly Cloudy,Spring,April,2020,514.12
+2020-04-15,16.2,60.5,6.7,19.9,Drizzle,Spring,April,2020,518.77
+2020-04-16,20.7,64.1,2.8,10.1,Partly Cloudy,Spring,April,2020,547.45
+2020-04-17,15.5,47.5,22.3,19.9,Rainy,Spring,April,2020,516.51
+2020-04-18,15.8,55.8,13.7,14.5,Drizzle,Spring,April,2020,487.02
+2020-04-19,14.8,66.4,32.9,9.5,Rainy,Spring,April,2020,484.36
+2020-04-20,9.2,50.0,2.4,8.5,Partly Cloudy,Spring,April,2020,522.01
+2020-04-21,14.9,62.3,28.0,24.7,Rainy,Spring,April,2020,514.94
+2020-04-22,15.2,49.1,4.5,14.2,Partly Cloudy,Spring,April,2020,515.33
+2020-04-23,22.4,63.7,3.4,19.7,Partly Cloudy,Spring,April,2020,565.04
+2020-04-24,14.4,59.7,0.4,6.5,Partly Cloudy,Spring,April,2020,514.01
+2020-04-25,15.9,47.1,0.4,14.739492242595203,Partly Cloudy,Spring,April,2020,487.62
+2020-04-26,14.9,69.3,9.4,19.5,Drizzle,Spring,April,2020,484.74
+2020-04-27,11.5,54.1,4.9,13.7,Partly Cloudy,Spring,April,2020,514.13
+2020-04-28,18.4,53.5,2.1,13.5,Partly Cloudy,Spring,April,2020,530.11
+2020-04-29,17.3,61.6,7.6,18.7,Drizzle,Spring,April,2020,523.17
+2020-04-30,17.4,69.2,2.3,18.4,Partly Cloudy,Spring,April,2020,523.83
+2020-05-01,18.3,49.9,6.0,15.9,Drizzle,Spring,May,2020,479.0
+2020-05-02,25.2,58.5,3.1,15.1,Partly Cloudy,Spring,May,2020,534.04
+2020-05-03,16.8,61.4,12.1,17.8,Drizzle,Spring,May,2020,441.1
+2020-05-04,22.8,63.5,12.0,6.3,Drizzle,Spring,May,2020,519.38
+2020-05-05,27.6,59.4,4.5,13.1,Partly Cloudy,Spring,May,2020,603.52
+2020-05-06,18.0,55.1,3.0,6.8,Partly Cloudy,Spring,May,2020,477.64
+2020-05-07,19.3,51.4,3.2,18.0,Partly Cloudy,Spring,May,2020,486.14
+2020-05-08,21.3,58.7,11.5,11.6,Drizzle,Spring,May,2020,503.51
+2020-05-09,15.139844851904092,49.4,2.8,7.1,Partly Cloudy,Spring,May,2020,471.59
+2020-05-10,16.3,34.6,1.6,11.0,Partly Cloudy,Spring,May,2020,439.45
+2020-05-11,21.2,61.5,0.6,15.7,Partly Cloudy,Spring,May,2020,502.58
+2020-05-12,17.8,65.2,4.4,14.739492242595203,Partly Cloudy,Spring,May,2020,476.35
+2020-05-13,22.4,39.1,4.6,9.1,Partly Cloudy,Spring,May,2020,515.3
+2020-05-14,18.2,49.9,12.9,6.5,Drizzle,Spring,May,2020,478.96
+2020-05-15,25.6,63.0,1.8,15.4,Partly Cloudy,Spring,May,2020,577.06
+2020-05-16,18.7,74.5,3.4,12.1,Partly Cloudy,Spring,May,2020,451.43
+2020-05-17,20.0,58.2,11.6,13.7,Drizzle,Spring,May,2020,461.95
+2020-05-18,23.4,52.2,12.1,14.2,Drizzle,Spring,May,2020,527.27
+2020-05-19,17.3,56.5,3.4,17.2,Partly Cloudy,Spring,May,2020,473.6
+2020-05-20,21.7,69.0,4.3,19.2,Partly Cloudy,Spring,May,2020,507.42
+2020-05-21,24.9,52.8,2.5,15.7,Partly Cloudy,Spring,May,2020,547.08
+2020-05-22,16.2,51.6,18.9,13.4,Rainy,Spring,May,2020,468.48
+2020-05-23,21.6,54.1,0.9,15.1,Partly Cloudy,Spring,May,2020,476.15
+2020-05-24,21.8,50.4,19.0,13.3,Rainy,Spring,May,2020,478.44
+2020-05-25,23.3,59.0,8.1,6.8,Drizzle,Spring,May,2020,526.08
+2020-05-26,17.3,71.0,5.3,20.5,Drizzle,Spring,May,2020,473.45
+2020-05-27,17.0,64.25148095909732,0.2,19.5,Partly Cloudy,Spring,May,2020,472.39
+2020-05-28,22.6,56.0,4.5,24.9,Partly Cloudy,Spring,May,2020,517.1
+2020-05-29,21.9,55.7,5.653808180535966,26.4,Partly Cloudy,Spring,May,2020,509.59
+2020-05-30,21.8,45.5,1.2,9.1,Partly Cloudy,Spring,May,2020,478.21
+2020-05-31,15.139844851904092,64.25148095909732,7.5,13.3,Drizzle,Spring,May,2020,492.83
+2020-06-01,25.0,54.4,14.2,27.6,Drizzle,Summer,June,2020,678.25
+2020-06-02,27.7,53.6,3.3,14.8,Partly Cloudy,Summer,June,2020,736.12
+2020-06-03,27.9,80.5,5.0,16.2,Cloudy,Summer,June,2020,794.64
+2020-06-04,15.139844851904092,57.4,0.3,7.4,Partly Cloudy,Summer,June,2020,676.27
+2020-06-05,32.6,49.0,5.653808180535966,15.8,Sunny,Summer,June,2020,850.24
+2020-06-06,28.4,51.6,0.5,24.7,Sunny,Summer,June,2020,706.74
+2020-06-07,23.4,64.2,3.8,21.4,Partly Cloudy,Summer,June,2020,614.08
+2020-06-08,29.0,55.9,11.2,12.0,Sunny,Summer,June,2020,768.97
+2020-06-09,24.1,43.5,4.3,13.0,Partly Cloudy,Summer,June,2020,664.25
+2020-06-10,15.139844851904092,62.4,0.3,9.3,Sunny,Summer,June,2020,713.81
+2020-06-11,30.5,49.7,1.8,10.7,Sunny,Summer,June,2020,793.27
+2020-06-12,24.5,70.0,3.2,5.4,Partly Cloudy,Summer,June,2020,670.89
+2020-06-13,29.9,63.6,2.1,14.6,Sunny,Summer,June,2020,765.51
+2020-06-14,28.2,51.4,7.2,22.6,Sunny,Summer,June,2020,702.12
+2020-06-15,29.5,65.2,6.7,16.8,Sunny,Summer,June,2020,799.43
+2020-06-16,32.7,55.5,3.8,21.8,Sunny,Summer,June,2020,864.2
+2020-06-17,26.3,61.8,1.9,20.4,Partly Cloudy,Summer,June,2020,724.91
+2020-06-18,24.7,58.9,1.2,12.3,Partly Cloudy,Summer,June,2020,674.05
+2020-06-19,24.3,48.2,0.4,11.2,Partly Cloudy,Summer,June,2020,667.74
+2020-06-20,24.6,49.9,1.8,11.4,Partly Cloudy,Summer,June,2020,631.24
+2020-06-21,26.8,63.2,2.1,6.4,Partly Cloudy,Summer,June,2020,696.76
+2020-06-22,28.0,64.25148095909732,4.5,15.2,Sunny,Summer,June,2020,764.23
+2020-06-23,27.8,51.8,4.3,0.5,Partly Cloudy,Summer,June,2020,734.84
+2020-06-24,29.5,47.4,0.3,18.0,Sunny,Summer,June,2020,768.78
+2020-06-25,27.0,58.4,2.0,15.4,Partly Cloudy,Summer,June,2020,732.03
+2020-06-26,31.4,71.5,0.8,17.4,Sunny,Summer,June,2020,860.14
+2020-06-27,26.2,46.5,0.7,20.3,Partly Cloudy,Summer,June,2020,659.02
+2020-06-28,35.2,55.2,7.0,16.0,Sunny,Summer,June,2020,900.18
+2020-06-29,15.139844851904092,66.3,0.2,23.2,Sunny,Summer,June,2020,709.77
+2020-06-30,24.4,54.4,2.2,18.1,Partly Cloudy,Summer,June,2020,669.25
+2020-07-01,27.8,55.6,0.6,11.2,Partly Cloudy,Summer,July,2020,708.85
+2020-07-02,32.4,43.5,6.3,13.8,Sunny,Summer,July,2020,811.61
+2020-07-03,30.3,55.4,2.4,3.7,Sunny,Summer,July,2020,766.28
+2020-07-04,33.1,50.5,0.8,10.5,Sunny,Summer,July,2020,792.37
+2020-07-05,32.4,59.9,2.1,13.1,Sunny,Summer,July,2020,790.92
+2020-07-06,30.8,61.5,3.9,17.7,Sunny,Summer,July,2020,790.95
+2020-07-07,28.5,72.7,9.5,11.2,Sunny,Summer,July,2020,758.32
+2020-07-08,26.5,56.6,5.653808180535966,8.8,Partly Cloudy,Summer,July,2020,684.72
+2020-07-09,29.7,54.6,6.5,5.6,Sunny,Summer,July,2020,749.37
+2020-07-10,33.6,53.6,5.653808180535966,12.0,Sunny,Summer,July,2020,853.52
+2020-07-11,31.6,49.2,7.4,24.8,Sunny,Summer,July,2020,748.85
+2020-07-12,27.3,54.7,3.0,16.4,Partly Cloudy,Summer,July,2020,656.04
+2020-07-13,31.5,49.6,3.0,19.7,Sunny,Summer,July,2020,786.45
+2020-07-14,32.2,53.3,1.5,10.5,Sunny,Summer,July,2020,811.88
+2020-07-15,28.3,62.5,5.653808180535966,7.1,Sunny,Summer,July,2020,734.02
+2020-07-16,31.5,43.9,68.4,8.9,Sunny,Summer,July,2020,785.97
+2020-07-17,31.2,61.1,3.4,14.5,Sunny,Summer,July,2020,800.54
+2020-07-18,-12.8,62.5,1.7,5.0,Partly Cloudy,Summer,July,2020,1477.36
+2020-07-19,32.1,51.1,3.9,10.0,Sunny,Summer,July,2020,764.26
+2020-07-20,32.7,35.0,5.2,12.1,Sunny,Summer,July,2020,819.66
+2020-07-21,34.2,47.1,0.5,8.4,Sunny,Summer,July,2020,865.4
+2020-07-22,34.2,62.4,5.4,4.4,Sunny,Summer,July,2020,889.78
+2020-07-23,26.9,51.8,2.3,16.4,Partly Cloudy,Summer,July,2020,682.77
+2020-07-24,28.2,44.0,5.6,15.2,Sunny,Summer,July,2020,706.02
+2020-07-25,32.5,48.0,1.7,18.9,Sunny,Summer,July,2020,773.94
+2020-07-26,32.5,58.7,1.4,9.4,Sunny,Summer,July,2020,791.52
+2020-07-27,32.5,56.4,7.4,18.8,Sunny,Summer,July,2020,827.4
+2020-07-28,42.6,50.1,0.9,22.6,Sunny,Summer,July,2020,1185.24
+2020-07-29,32.7,49.1,5.6,16.3,Sunny,Summer,July,2020,819.92
+2020-07-30,34.4,48.9,2.0,12.0,Sunny,Summer,July,2020,871.35
+2020-07-31,33.9,44.6,2.2,15.7,Sunny,Summer,July,2020,855.35
+2020-08-01,32.0,66.9,1.5,11.7,Sunny,Summer,August,2020,801.65
+2020-08-02,29.1,51.4,3.4,10.9,Sunny,Summer,August,2020,696.53
+2020-08-03,32.3,63.7,1.6,18.4,Sunny,Summer,August,2020,844.26
+2020-08-04,27.7,66.2,0.2,14.3,Partly Cloudy,Summer,August,2020,736.51
+2020-08-05,29.3,62.0,1.3,21.0,Sunny,Summer,August,2020,763.44
+2020-08-06,28.5,50.5,0.0,12.8,Sunny,Summer,August,2020,722.4
+2020-08-07,30.2,57.2,15.3,13.3,Rainy,Summer,August,2020,775.9
+2020-08-08,36.9,53.8,13.5,12.2,Sunny,Summer,August,2020,931.41
+2020-08-09,24.4,46.8,2.0,9.4,Partly Cloudy,Summer,August,2020,603.5
+2020-08-10,32.1,56.6,5.2,19.1,Sunny,Summer,August,2020,824.11
+2020-08-11,25.2,44.6,1.7,25.9,Partly Cloudy,Summer,August,2020,656.58
+2020-08-12,28.6,63.5,4.4,13.1,Sunny,Summer,August,2020,750.45
+2020-08-13,33.3,50.3,6.5,11.6,Sunny,Summer,August,2020,846.11
+2020-08-14,30.2,55.6,11.7,11.3,Sunny,Summer,August,2020,772.22
+2020-08-15,26.8,56.3,2.0,11.6,Partly Cloudy,Summer,August,2020,657.77
+2020-08-16,27.9,51.9,6.1,23.2,Drizzle,Summer,August,2020,671.02
+2020-08-17,32.0,58.7,1.2,11.4,Sunny,Summer,August,2020,826.25
+2020-08-18,27.8,50.2,18.6,12.1,Rainy,Summer,August,2020,706.43
+2020-08-19,30.6,61.0,0.1,8.8,Sunny,Summer,August,2020,793.7
+2020-08-20,30.1,43.2,3.7,16.5,Sunny,Summer,August,2020,758.77
+2020-08-21,28.0,55.0,4.3,14.7,Sunny,Summer,August,2020,720.67
+2020-08-22,36.4,69.5,4.7,9.3,Sunny,Summer,August,2020,945.44
+2020-08-23,15.139844851904092,46.0,0.5,10.5,Sunny,Summer,August,2020,669.48
+2020-08-24,23.9,48.6,11.2,22.7,Drizzle,Summer,August,2020,636.69
+2020-08-25,30.6,58.1,0.8,15.2,Sunny,Summer,August,2020,787.08
+2020-08-26,28.0,55.4,5.653808180535966,15.5,Sunny,Summer,August,2020,721.23
+2020-08-27,32.6,56.8,1.0,15.5,Sunny,Summer,August,2020,838.68
+2020-08-28,27.6,57.9,1.5,22.0,Partly Cloudy,Summer,August,2020,717.97
+2020-08-29,29.7,59.1,3.2,9.8,Sunny,Summer,August,2020,726.27
+2020-08-30,31.5,62.9,2.2,13.0,Sunny,Summer,August,2020,780.37
+2020-08-31,32.6,57.3,0.7,14.2,Sunny,Summer,August,2020,840.02
+2020-09-01,20.4,58.1,1.1,6.4,Partly Cloudy,Autumn,September,2020,470.09
+2020-09-02,23.0,65.4,3.2,10.4,Partly Cloudy,Autumn,September,2020,497.04
+2020-09-03,22.6,75.2,8.5,20.2,Drizzle,Autumn,September,2020,492.18
+2020-09-04,22.0,58.9,13.7,18.8,Drizzle,Autumn,September,2020,486.07
+2020-09-05,29.3,52.2,0.5,19.7,Sunny,Autumn,September,2020,569.33
+2020-09-06,25.2,68.9,3.0,12.1,Partly Cloudy,Autumn,September,2020,524.7
+2020-09-07,15.139844851904092,59.0,0.6,12.7,Partly Cloudy,Autumn,September,2020,482.65
+2020-09-08,26.8,42.6,0.1,6.1,Partly Cloudy,Autumn,September,2020,550.69
+2020-09-09,30.4,66.8,6.5,19.7,Sunny,Autumn,September,2020,643.15
+2020-09-10,27.1,55.7,5.5,20.5,Drizzle,Autumn,September,2020,564.61
+2020-09-11,19.4,59.3,1.1,20.4,Partly Cloudy,Autumn,September,2020,462.23
+2020-09-12,22.5,62.7,1.6,23.0,Partly Cloudy,Autumn,September,2020,461.64
+2020-09-13,27.8,61.5,0.1,17.1,Partly Cloudy,Autumn,September,2020,555.43
+2020-09-14,21.9,65.7,10.8,22.8,Drizzle,Autumn,September,2020,484.47
+2020-09-15,25.3,56.5,22.1,14.0,Rainy,Autumn,September,2020,537.7
+2020-09-16,26.3,64.1,0.9,6.2,Partly Cloudy,Autumn,September,2020,564.33
+2020-09-17,21.2,57.9,1.6,19.3,Partly Cloudy,Autumn,September,2020,477.69
+2020-09-18,23.8,65.9,12.2,6.0,Drizzle,Autumn,September,2020,507.18
+2020-09-19,14.3,64.9,15.7,15.9,Rainy,Autumn,September,2020,408.46
+2020-09-20,20.9,52.5,3.3,19.8,Partly Cloudy,Autumn,September,2020,444.88
+2020-09-21,23.2,68.7,0.3,16.6,Partly Cloudy,Autumn,September,2020,499.83
+2020-09-22,20.3,55.7,0.2,26.4,Partly Cloudy,Autumn,September,2020,468.86
+2020-09-23,28.9,66.5,5.1,5.2,Sunny,Autumn,September,2020,613.09
+2020-09-24,19.7,62.9,3.0,14.739492242595203,Partly Cloudy,Autumn,September,2020,464.3
+2020-09-25,22.7,74.7,0.2,15.1,Partly Cloudy,Autumn,September,2020,493.37
+2020-09-26,24.4,58.2,5.3,8.3,Drizzle,Autumn,September,2020,484.88
+2020-09-27,28.3,57.2,0.1,9.2,Sunny,Autumn,September,2020,558.17
+2020-09-28,19.7,59.8,9.3,10.8,Drizzle,Autumn,September,2020,464.16
+2020-09-29,27.5,57.6,2.2,9.5,Partly Cloudy,Autumn,September,2020,574.23
+2020-09-30,24.0,66.4,0.2,14.5,Partly Cloudy,Autumn,September,2020,509.86
+2020-10-01,13.1,55.1,7.1,12.0,Drizzle,Autumn,October,2020,504.03
+2020-10-02,17.4,59.6,4.1,16.6,Partly Cloudy,Autumn,October,2020,515.61
+2020-10-03,16.6,59.5,29.1,18.2,Rainy,Autumn,October,2020,481.91
+2020-10-04,14.2,75.6,6.3,17.9,Drizzle,Autumn,October,2020,475.18
+2020-10-05,16.2,81.7,2.6,12.9,Cloudy,Autumn,October,2020,510.41
+2020-10-06,14.8,67.2,9.9,16.4,Drizzle,Autumn,October,2020,506.59
+2020-10-07,16.3,66.6,2.5,20.2,Partly Cloudy,Autumn,October,2020,511.05
+2020-10-08,18.0,68.6,18.8,17.2,Rainy,Autumn,October,2020,518.95
+2020-10-09,15.139844851904092,77.3,3.8,14.739492242595203,Partly Cloudy,Autumn,October,2020,553.82
+2020-10-10,12.3,60.6,6.4,19.9,Drizzle,Autumn,October,2020,474.63
+2020-10-11,22.4,69.9,0.4,23.6,Partly Cloudy,Autumn,October,2020,526.78
+2020-10-12,10.1,75.8,4.4,2.5,Partly Cloudy,Autumn,October,2020,510.0
+2020-10-13,15.5,72.0,14.3,15.5,Drizzle,Autumn,October,2020,508.36
+2020-10-14,17.8,69.5,13.1,13.4,Drizzle,Autumn,October,2020,517.61
+2020-10-15,16.8,76.0,2.0,14.4,Partly Cloudy,Autumn,October,2020,513.17
+2020-10-16,14.1,46.4,75.3,11.0,Partly Cloudy,Autumn,October,2020,505.32
+2020-10-17,15.4,73.4,5.653808180535966,14.739492242595203,Drizzle,Autumn,October,2020,477.49
+2020-10-18,14.5,62.8,21.3,14.739492242595203,Rainy,Autumn,October,2020,475.82
+2020-10-19,14.2,53.4,0.8,17.0,Partly Cloudy,Autumn,October,2020,505.45
+2020-10-20,18.5,72.1,4.8,11.1,Partly Cloudy,Autumn,October,2020,522.59
+2020-10-21,17.1,79.0,3.3,12.5,Partly Cloudy,Autumn,October,2020,513.97
+2020-10-22,13.9,66.9,16.4,17.2,Rainy,Autumn,October,2020,505.0
+2020-10-23,18.7,75.6,0.7,15.4,Partly Cloudy,Autumn,October,2020,523.5
+2020-10-24,16.9,80.9,1.9,20.3,Cloudy,Autumn,October,2020,483.45
+2020-10-25,18.4,78.5,11.2,10.2,Drizzle,Autumn,October,2020,491.86
+2020-10-26,17.9,81.1,0.4,14.6,Cloudy,Autumn,October,2020,518.39
+2020-10-27,13.5,73.9,5.4,19.4,Drizzle,Autumn,October,2020,504.63
+2020-10-28,14.3,68.6,5.653808180535966,16.8,Partly Cloudy,Autumn,October,2020,505.49
+2020-10-29,18.2,55.2,3.3,17.1,Partly Cloudy,Autumn,October,2020,520.63
+2020-10-30,17.8,66.0,4.0,20.5,Partly Cloudy,Autumn,October,2020,518.16
+2020-10-31,15.139844851904092,61.3,6.0,14.739492242595203,Drizzle,Autumn,October,2020,483.65
+2020-11-01,8.4,91.4,1.2,11.9,Cloudy,Autumn,November,2020,553.67
+2020-11-02,11.8,72.6,5.9,17.9,Drizzle,Autumn,November,2020,572.29
+2020-11-03,6.2,75.0,11.5,14.3,Drizzle,Autumn,November,2020,599.47
+2020-11-04,9.6,78.4,10.0,20.6,Drizzle,Autumn,November,2020,578.57
+2020-11-05,7.4,74.3,1.2,16.8,Partly Cloudy,Autumn,November,2020,590.2
+2020-11-06,7.3,87.6,1.1,11.9,Cloudy,Autumn,November,2020,591.33
+2020-11-07,11.3,69.0,2.2,16.7,Partly Cloudy,Autumn,November,2020,542.88
+2020-11-08,10.5,75.6,3.1,10.5,Partly Cloudy,Autumn,November,2020,544.79
+2020-11-09,10.4,68.1,3.7,19.7,Partly Cloudy,Autumn,November,2020,575.63
+2020-11-10,11.9,63.4,8.0,8.0,Drizzle,Autumn,November,2020,572.0
+2020-11-11,8.1,69.1,0.4,21.1,Partly Cloudy,Autumn,November,2020,585.49
+2020-11-12,10.0,73.7,0.2,16.6,Partly Cloudy,Autumn,November,2020,577.05
+2020-11-13,7.1,70.6,3.5,14.2,Partly Cloudy,Autumn,November,2020,592.09
+2020-11-14,9.0,68.5,8.4,18.8,Drizzle,Autumn,November,2020,550.7
+2020-11-15,7.6,62.7,1.5,17.6,Partly Cloudy,Autumn,November,2020,559.0
+2020-11-16,8.3,73.3,7.2,21.7,Drizzle,Autumn,November,2020,584.56
+2020-11-17,9.8,62.0,2.1,21.6,Partly Cloudy,Autumn,November,2020,577.3
+2020-11-18,5.5,80.1,15.2,16.8,Rainy,Autumn,November,2020,605.69
+2020-11-19,14.3,74.7,15.8,10.6,Rainy,Autumn,November,2020,571.8
+2020-11-20,5.0,62.3,2.5,12.3,Partly Cloudy,Autumn,November,2020,609.85
+2020-11-21,4.4,71.5,1.8,14.6,Partly Cloudy,Autumn,November,2020,585.66
+2020-11-22,11.5,68.0,3.7,14.739492242595203,Partly Cloudy,Autumn,November,2020,542.3
+2020-11-23,10.4,76.6,1.9,12.7,Partly Cloudy,Autumn,November,2020,575.09
+2020-11-24,9.9,84.7,7.8,13.1,Cloudy,Autumn,November,2020,576.81
+2020-11-25,9.9,59.0,12.2,24.2,Drizzle,Autumn,November,2020,576.91
+2020-11-26,8.0,74.9,7.8,14.5,Drizzle,Autumn,November,2020,586.09
+2020-11-27,5.3,72.7,12.2,11.8,Drizzle,Autumn,November,2020,607.22
+2020-11-28,8.2,79.4,3.5,18.9,Partly Cloudy,Autumn,November,2020,555.44
+2020-11-29,6.0,75.7,1.2,14.7,Partly Cloudy,Autumn,November,2020,570.67
+2020-11-30,10.9,68.0,9.4,8.1,Drizzle,Autumn,November,2020,574.06
+2020-12-01,0.6,74.4,2.7,20.2,Partly Cloudy,Winter,December,2020,831.01
+2020-12-02,-1.5,70.6,6.7,11.3,Snowy,Winter,December,2020,873.32
+2020-12-03,0.0,85.6,1.9,15.2,Cloudy,Winter,December,2020,842.97
+2020-12-04,2.2,77.2,0.5,14.7,Partly Cloudy,Winter,December,2020,803.94
+2020-12-05,-0.7,64.25148095909732,29.4,16.2,Rainy,Winter,December,2020,822.06
+2020-12-06,-1.5,76.5,1.0,4.0,Snowy,Winter,December,2020,838.9
+2020-12-07,1.7,71.3,26.8,13.3,Rainy,Winter,December,2020,812.17
+2020-12-08,1.7,64.9,22.7,20.6,Rainy,Winter,December,2020,812.2
+2020-12-09,-0.5,62.6,9.5,21.3,Snowy,Winter,December,2020,852.3
+2020-12-10,-0.4,64.3,6.5,10.0,Snowy,Winter,December,2020,850.37
+2020-12-11,1.7,64.25148095909732,5.2,19.6,Drizzle,Winter,December,2020,811.88
+2020-12-12,-3.3,81.1,12.1,11.2,Snowy,Winter,December,2020,878.89
+2020-12-13,-3.2,64.4,2.1,13.1,Snowy,Winter,December,2020,876.7
+2020-12-14,-1.2,84.2,3.8,13.4,Snowy,Winter,December,2020,867.15
+2020-12-15,0.4,64.25148095909732,5.8,15.5,Drizzle,Winter,December,2020,834.73
+2020-12-16,1.9,78.2,3.2,20.0,Partly Cloudy,Winter,December,2020,808.82
+2020-12-17,5.4,89.9,3.3,16.3,Cloudy,Winter,December,2020,758.96
+2020-12-18,3.6,84.2,2.4,14.4,Cloudy,Winter,December,2020,782.02
+2020-12-19,0.5,64.25148095909732,5.0,19.8,Partly Cloudy,Winter,December,2020,798.87
+2020-12-20,41.9,69.9,11.4,11.0,Drizzle,Winter,December,2020,905.28
+2020-12-21,-2.0,59.8,1.4,14.739492242595203,Snowy,Winter,December,2020,883.9
+2020-12-22,0.9,71.2,16.3,20.0,Rainy,Winter,December,2020,826.26
+2020-12-23,0.1,75.3,7.0,17.6,Drizzle,Winter,December,2020,841.03
+2020-12-24,2.0,69.1,10.4,12.7,Drizzle,Winter,December,2020,806.63
+2020-12-25,-1.5,75.9,4.9,7.4,Snowy,Winter,December,2020,873.27
+2020-12-26,2.6,77.6,9.1,16.6,Drizzle,Winter,December,2020,762.39
+2020-12-27,5.6,75.2,0.1,7.1,Partly Cloudy,Winter,December,2020,721.9
+2020-12-28,0.7,71.8,10.2,13.9,Drizzle,Winter,December,2020,829.3
+2020-12-29,2.2,78.3,0.2,20.9,Partly Cloudy,Winter,December,2020,803.66
+2020-12-30,3.1,80.5,13.2,18.0,Cloudy,Winter,December,2020,789.32
+2020-12-31,-0.2,68.3,28.9,4.9,Rainy,Winter,December,2020,846.52
+2021-01-01,-1.3,86.3,5.653808180535966,16.0,Snowy,Winter,January,2021,893.65
+2021-01-02,-2.0,74.2,1.2,13.4,Snowy,Winter,January,2021,874.77
+2021-01-03,-1.7,75.2,7.2,8.6,Snowy,Winter,January,2021,867.86
+2021-01-04,-4.3,80.7,1.5,16.7,Snowy,Winter,January,2021,963.11
+2021-01-05,-1.9,76.9,10.0,12.5,Snowy,Winter,January,2021,906.54
+2021-01-06,-0.5,82.6,0.5,12.6,Snowy,Winter,January,2021,877.42
+2021-01-07,2.4,77.3,0.7,15.6,Partly Cloudy,Winter,January,2021,825.01
+2021-01-08,0.9,70.1,19.4,11.9,Rainy,Winter,January,2021,850.7
+2021-01-09,4.5,77.9,5.6,15.5,Drizzle,Winter,January,2021,760.1
+2021-01-10,-4.3,64.25148095909732,9.4,12.0,Snowy,Winter,January,2021,928.75
+2021-01-11,0.6,75.9,2.0,12.3,Partly Cloudy,Winter,January,2021,856.5
+2021-01-12,-1.4,74.7,5.6,20.0,Snowy,Winter,January,2021,895.58
+2021-01-13,4.6,73.3,4.5,20.5,Partly Cloudy,Winter,January,2021,793.39
+2021-01-14,-4.4,74.0,4.6,6.5,Snowy,Winter,January,2021,965.59
+2021-01-15,-4.5,59.9,5.7,18.7,Snowy,Winter,January,2021,968.18
+2021-01-16,-3.8,70.6,4.3,22.0,Snowy,Winter,January,2021,916.36
+2021-01-17,-8.4,75.7,2.8,22.8,Snowy,Winter,January,2021,1043.93
+2021-01-18,-3.6,76.3,1.6,17.6,Snowy,Winter,January,2021,946.16
+2021-01-19,-4.3,66.8,7.3,9.7,Snowy,Winter,January,2021,963.46
+2021-01-20,-1.5,85.1,1.3,18.1,Snowy,Winter,January,2021,897.71
+2021-01-21,-1.0,68.1,5.9,10.7,Snowy,Winter,January,2021,887.83
+2021-01-22,3.6,82.8,1.3,13.3,Cloudy,Winter,January,2021,807.49
+2021-01-23,0.9,78.4,4.9,16.9,Partly Cloudy,Winter,January,2021,815.98
+2021-01-24,-3.7,69.8,6.9,11.0,Snowy,Winter,January,2021,913.64
+2021-01-25,-4.7,89.2,1.2,9.3,Snowy,Winter,January,2021,973.5
+2021-01-26,-0.5,65.5,0.3,17.3,Snowy,Winter,January,2021,877.27
+2021-01-27,-6.0,82.4,0.7,24.3,Snowy,Winter,January,2021,1008.43
+2021-01-28,3.5,83.0,5.653808180535966,21.2,Cloudy,Winter,January,2021,808.64
+2021-01-29,1.5,69.6,9.5,18.5,Drizzle,Winter,January,2021,840.64
+2021-01-30,-3.4,86.1,0.2,19.9,Snowy,Winter,January,2021,906.59
+2021-01-31,-7.1,73.0,6.6,18.2,Snowy,Winter,January,2021,1004.41
+2021-02-01,5.1,74.3,1.7,17.2,Partly Cloudy,Winter,February,2021,762.03
+2021-02-02,15.139844851904092,74.1,2.6,19.5,Partly Cloudy,Winter,February,2021,588.44
+2021-02-03,4.7,70.9,10.6,8.2,Drizzle,Winter,February,2021,767.47
+2021-02-04,-3.8,78.5,1.6,16.0,Snowy,Winter,February,2021,925.98
+2021-02-05,-0.8,78.3,2.5,14.6,Snowy,Winter,February,2021,858.54
+2021-02-06,1.0,58.0,0.1,15.4,Partly Cloudy,Winter,February,2021,789.72
+2021-02-07,1.1,82.4,0.3,12.7,Cloudy,Winter,February,2021,788.15
+2021-02-08,-0.4,58.7,1.2,17.6,Snowy,Winter,February,2021,850.9
+2021-02-09,2.9,80.3,0.1,10.9,Cloudy,Winter,February,2021,792.33
+2021-02-10,-2.2,81.0,4.0,12.3,Snowy,Winter,February,2021,888.37
+2021-02-11,0.6,63.3,2.2,11.7,Partly Cloudy,Winter,February,2021,831.13
+2021-02-12,1.4,68.7,3.2,19.3,Partly Cloudy,Winter,February,2021,816.72
+2021-02-13,2.5,63.2,0.8,14.9,Partly Cloudy,Winter,February,2021,764.67
+2021-02-14,3.1,70.3,1.4,12.7,Partly Cloudy,Winter,February,2021,755.36
+2021-02-15,-2.4,69.5,4.4,13.1,Snowy,Winter,February,2021,893.1
+2021-02-16,-3.6,78.2,13.4,15.0,Snowy,Winter,February,2021,920.95
+2021-02-17,4.8,82.5,0.2,23.1,Cloudy,Winter,February,2021,766.36
+2021-02-18,2.0,83.2,8.8,8.8,Cloudy,Winter,February,2021,806.87
+2021-02-19,-1.2,67.5,3.4,18.4,Snowy,Winter,February,2021,866.4
+2021-02-20,5.7,70.3,3.3,17.4,Partly Cloudy,Winter,February,2021,720.38
+2021-02-21,1.3,58.5,2.8,10.6,Partly Cloudy,Winter,February,2021,784.68
+2021-02-22,4.5,65.6,0.3,22.3,Partly Cloudy,Winter,February,2021,770.25
+2021-02-23,1.2,79.7,0.4,17.7,Partly Cloudy,Winter,February,2021,820.56
+2021-02-24,7.2,84.9,3.7,12.5,Cloudy,Winter,February,2021,739.57
+2021-02-25,6.3,64.25148095909732,1.7,5.7,Partly Cloudy,Winter,February,2021,748.39
+2021-02-26,0.3,67.3,10.0,16.1,Drizzle,Winter,February,2021,836.56
+2021-02-27,15.139844851904092,71.8,5.653808180535966,14.8,Partly Cloudy,Winter,February,2021,581.09
+2021-02-28,2.9,74.2,0.6,9.8,Partly Cloudy,Winter,February,2021,758.4
+2021-03-01,12.1,58.5,7.5,9.8,Drizzle,Spring,March,2021,571.66
+2021-03-02,5.1,68.4,2.1,19.3,Partly Cloudy,Spring,March,2021,609.08
+2021-03-03,10.1,61.2,4.5,5.2,Partly Cloudy,Spring,March,2021,575.96
+2021-03-04,11.2,64.9,7.2,16.6,Drizzle,Spring,March,2021,572.92
+2021-03-05,2.7,69.4,13.8,14.1,Drizzle,Spring,March,2021,635.61
+2021-03-06,4.5,65.1,9.4,17.5,Drizzle,Spring,March,2021,584.57
+2021-03-07,1.9,61.5,6.8,13.5,Drizzle,Spring,March,2021,615.59
+2021-03-08,7.2,64.1,6.8,16.5,Drizzle,Spring,March,2021,591.57
+2021-03-09,10.2,64.3,17.5,11.3,Rainy,Spring,March,2021,575.56
+2021-03-10,12.5,62.0,2.1,14.8,Partly Cloudy,Spring,March,2021,571.31
+2021-03-11,8.2,62.9,0.0,17.4,Partly Cloudy,Spring,March,2021,585.4
+2021-03-12,12.9,77.8,5.653808180535966,15.8,Partly Cloudy,Spring,March,2021,570.96
+2021-03-13,3.9,69.5,1.5,16.9,Partly Cloudy,Spring,March,2021,591.02
+2021-03-14,2.9,62.6,80.0,10.4,Drizzle,Spring,March,2021,602.86
+2021-03-15,7.8,70.6,6.0,12.0,Drizzle,Spring,March,2021,587.92
+2021-03-16,9.2,62.3,5.4,12.1,Drizzle,Spring,March,2021,579.59
+2021-03-17,7.9,74.4,0.1,13.6,Partly Cloudy,Spring,March,2021,587.03
+2021-03-18,1.8,68.0,7.8,21.8,Drizzle,Spring,March,2021,647.06
+2021-03-19,7.7,64.1,2.3,13.2,Partly Cloudy,Spring,March,2021,588.55
+2021-03-20,4.1,68.6,6.6,9.3,Drizzle,Spring,March,2021,589.07
+2021-03-21,10.0,52.4,4.9,17.7,Partly Cloudy,Spring,March,2021,546.74
+2021-03-22,9.1,56.0,2.5,21.7,Partly Cloudy,Spring,March,2021,580.45
+2021-03-23,5.2,55.4,0.9,8.7,Partly Cloudy,Spring,March,2021,607.93
+2021-03-24,6.5,66.1,0.6,24.9,Partly Cloudy,Spring,March,2021,596.5
+2021-03-25,4.8,78.9,10.7,17.1,Drizzle,Spring,March,2021,612.14
+2021-03-26,7.8,82.9,15.0,20.2,Cloudy,Spring,March,2021,587.74
+2021-03-27,10.9,70.1,6.3,22.3,Drizzle,Spring,March,2021,543.56
+2021-03-28,5.0,69.0,0.7,19.9,Partly Cloudy,Spring,March,2021,580.36
+2021-03-29,9.5,50.6,3.1,14.4,Partly Cloudy,Spring,March,2021,578.75
+2021-03-30,6.4,60.7,7.8,14.739492242595203,Drizzle,Spring,March,2021,597.72
+2021-03-31,5.6,58.7,9.1,16.3,Drizzle,Spring,March,2021,604.59
+2021-04-01,14.7,55.0,1.0,20.5,Partly Cloudy,Spring,April,2021,514.18
+2021-04-02,11.9,58.7,0.0,21.0,Partly Cloudy,Spring,April,2021,513.48
+2021-04-03,13.3,56.2,10.0,9.5,Drizzle,Spring,April,2021,483.09
+2021-04-04,15.139844851904092,44.2,3.5,19.0,Partly Cloudy,Spring,April,2021,454.23
+2021-04-05,20.9,66.0,2.3,14.1,Partly Cloudy,Spring,April,2021,549.6
+2021-04-06,15.1,51.4,0.1,15.7,Partly Cloudy,Spring,April,2021,515.29
+2021-04-07,12.9,61.9,6.2,15.6,Drizzle,Spring,April,2021,512.75
+2021-04-08,15.6,76.6,15.2,15.4,Rainy,Spring,April,2021,516.97
+2021-04-09,14.7,52.6,25.3,22.6,Rainy,Spring,April,2021,514.05
+2021-04-10,14.3,39.8,6.7,8.2,Drizzle,Spring,April,2021,483.97
+2021-04-11,16.8,57.7,5.8,6.4,Drizzle,Spring,April,2021,491.5
+2021-04-12,17.3,68.8,0.7,5.3,Partly Cloudy,Spring,April,2021,523.31
+2021-04-13,13.4,75.7,6.4,20.3,Drizzle,Spring,April,2021,512.87
+2021-04-14,13.3,50.2,3.8,11.1,Partly Cloudy,Spring,April,2021,512.54
+2021-04-15,14.2,64.0,7.5,15.7,Drizzle,Spring,April,2021,513.31
+2021-04-16,8.1,56.3,3.9,14.4,Partly Cloudy,Spring,April,2021,527.42
+2021-04-17,10.5,59.2,2.2,10.6,Partly Cloudy,Spring,April,2021,486.27
+2021-04-18,19.1,81.2,0.8,19.3,Cloudy,Spring,April,2021,504.66
+2021-04-19,19.9,48.0,3.0,14.4,Partly Cloudy,Spring,April,2021,541.13
+2021-04-20,14.3,62.0,0.8,13.8,Partly Cloudy,Spring,April,2021,513.27
+2021-04-21,16.7,63.7,1.6,16.2,Partly Cloudy,Spring,April,2021,520.95
+2021-04-22,15.9,68.7,35.0,18.6,Rainy,Spring,April,2021,517.87
+2021-04-23,24.2,60.8,4.7,10.2,Partly Cloudy,Spring,April,2021,587.56
+2021-04-24,18.4,62.5,6.1,14.739492242595203,Drizzle,Spring,April,2021,499.53
+2021-04-25,14.6,56.9,16.5,22.2,Rainy,Spring,April,2021,484.3
+2021-04-26,12.1,62.2,43.4,7.9,Rainy,Spring,April,2021,513.56
+2021-04-27,10.2,57.3,7.0,16.4,Drizzle,Spring,April,2021,517.46
+2021-04-28,15.6,65.0,13.4,13.5,Drizzle,Spring,April,2021,516.7
+2021-04-29,12.7,57.0,3.2,18.5,Partly Cloudy,Spring,April,2021,513.07
+2021-04-30,10.7,63.0,2.9,8.9,Partly Cloudy,Spring,April,2021,516.34
+2021-05-01,19.1,57.8,3.6,23.1,Partly Cloudy,Spring,May,2021,454.32
+2021-05-02,17.8,67.0,7.8,7.0,Drizzle,Spring,May,2021,445.87
+2021-05-03,26.1,57.6,8.0,13.8,Drizzle,Spring,May,2021,575.9
+2021-05-04,23.6,43.8,2.7,17.2,Partly Cloudy,Spring,May,2021,529.82
+2021-05-05,21.0,68.1,1.0,14.739492242595203,Partly Cloudy,Spring,May,2021,500.4
+2021-05-06,25.4,50.8,7.0,10.8,Drizzle,Spring,May,2021,555.69
+2021-05-07,21.2,52.8,1.0,16.1,Partly Cloudy,Spring,May,2021,502.8
+2021-05-08,18.4,53.2,6.0,15.4,Drizzle,Spring,May,2021,450.0
+2021-05-09,25.6,69.0,8.3,15.0,Drizzle,Spring,May,2021,555.39
+2021-05-10,22.6,40.9,8.4,19.3,Drizzle,Spring,May,2021,517.53
+2021-05-11,17.9,83.1,9.8,13.0,Cloudy,Spring,May,2021,476.71
+2021-05-12,20.4,66.4,14.4,16.6,Drizzle,Spring,May,2021,495.34
+2021-05-13,15.139844851904092,64.25148095909732,4.9,12.5,Partly Cloudy,Spring,May,2021,492.28
+2021-05-14,16.9,57.6,9.2,10.8,Drizzle,Spring,May,2021,471.2
+2021-05-15,23.8,60.3,6.8,13.6,Drizzle,Spring,May,2021,501.82
+2021-05-16,26.7,62.2,1.4,12.5,Partly Cloudy,Spring,May,2021,562.97
+2021-05-17,16.8,63.2,0.2,12.8,Partly Cloudy,Spring,May,2021,471.18
+2021-05-18,22.7,62.4,2.3,20.8,Partly Cloudy,Spring,May,2021,518.45
+2021-05-19,19.0,58.7,4.1,13.7,Partly Cloudy,Spring,May,2021,484.33
+2021-05-20,19.5,56.4,5.653808180535966,11.7,Drizzle,Spring,May,2021,487.97
+2021-05-21,19.2,56.8,13.3,14.739492242595203,Drizzle,Spring,May,2021,485.57
+2021-05-22,18.4,64.25148095909732,1.5,15.5,Partly Cloudy,Spring,May,2021,449.94
+2021-05-23,21.1,67.1,0.9,9.1,Partly Cloudy,Spring,May,2021,471.94
+2021-05-24,18.5,62.7,23.2,13.5,Rainy,Spring,May,2021,480.58
+2021-05-25,21.8,34.5,0.8,13.3,Partly Cloudy,Spring,May,2021,508.71
+2021-05-26,20.8,63.2,4.6,14.1,Partly Cloudy,Spring,May,2021,499.13
+2021-05-27,20.3,59.6,6.2,18.6,Drizzle,Spring,May,2021,494.08
+2021-05-28,18.3,57.9,5.5,15.7,Drizzle,Spring,May,2021,479.04
+2021-05-29,19.3,64.25148095909732,0.6,21.1,Partly Cloudy,Spring,May,2021,455.87
+2021-05-30,23.3,67.0,0.4,14.9,Partly Cloudy,Spring,May,2021,495.42
+2021-05-31,22.5,65.6,0.8,23.9,Partly Cloudy,Spring,May,2021,516.27
+2021-06-01,24.1,48.8,3.5,12.7,Partly Cloudy,Summer,June,2021,664.18
+2021-06-02,27.3,58.3,3.1,11.2,Partly Cloudy,Summer,June,2021,737.46
+2021-06-03,29.3,47.2,1.1,17.7,Sunny,Summer,June,2021,763.84
+2021-06-04,22.0,44.0,4.1,21.8,Partly Cloudy,Summer,June,2021,636.5
+2021-06-05,28.6,50.0,6.9,8.1,Sunny,Summer,June,2021,707.99
+2021-06-06,25.0,61.9,0.2,14.0,Partly Cloudy,Summer,June,2021,638.18
+2021-06-07,28.7,62.6,2.8,11.9,Sunny,Summer,June,2021,776.09
+2021-06-08,24.7,59.1,4.7,15.7,Partly Cloudy,Summer,June,2021,673.81
+2021-06-09,15.139844851904092,60.8,1.2,15.1,Partly Cloudy,Summer,June,2021,649.01
+2021-06-10,15.139844851904092,59.1,1.5,21.7,Partly Cloudy,Summer,June,2021,653.44
+2021-06-11,27.1,49.9,3.8,14.5,Partly Cloudy,Summer,June,2021,717.03
+2021-06-12,27.8,58.5,9.1,21.9,Drizzle,Summer,June,2021,707.49
+2021-06-13,24.3,61.4,6.6,13.4,Drizzle,Summer,June,2021,626.87
+2021-06-14,28.9,61.0,3.5,19.6,Sunny,Summer,June,2021,777.4
+2021-06-15,22.0,64.5,5.2,16.1,Drizzle,Summer,June,2021,636.7
+2021-06-16,26.8,60.7,1.8,23.6,Partly Cloudy,Summer,June,2021,732.47
+2021-06-17,23.4,57.8,4.1,7.6,Partly Cloudy,Summer,June,2021,654.09
+2021-06-18,25.0,63.6,2.5,9.2,Partly Cloudy,Summer,June,2021,678.95
+2021-06-19,27.1,54.8,0.8,24.2,Partly Cloudy,Summer,June,2021,686.24
+2021-06-20,24.4,47.9,4.8,11.3,Partly Cloudy,Summer,June,2021,628.67
+2021-06-21,25.8,53.7,3.3,11.7,Partly Cloudy,Summer,June,2021,700.13
+2021-06-22,30.0,49.0,1.8,10.6,Sunny,Summer,June,2021,781.16
+2021-06-23,25.3,49.6,9.7,20.7,Drizzle,Summer,June,2021,683.33
+2021-06-24,29.5,53.8,0.1,8.7,Sunny,Summer,June,2021,776.69
+2021-06-25,23.6,48.7,1.5,15.1,Partly Cloudy,Summer,June,2021,657.25
+2021-06-26,28.6,52.5,0.2,13.7,Sunny,Summer,June,2021,712.72
+2021-06-27,31.3,64.25148095909732,5.8,20.2,Sunny,Summer,June,2021,802.83
+2021-06-28,19.6,56.7,4.8,12.2,Partly Cloudy,Summer,June,2021,613.34
+2021-06-29,24.6,55.0,1.6,17.1,Partly Cloudy,Summer,June,2021,672.22
+2021-06-30,28.7,48.5,4.5,9.1,Sunny,Summer,June,2021,750.74
+2021-07-01,30.4,57.3,1.5,26.4,Sunny,Summer,July,2021,772.32
+2021-07-02,32.1,59.5,4.2,13.8,Sunny,Summer,July,2021,822.11
+2021-07-03,29.2,39.1,1.8,15.0,Sunny,Summer,July,2021,687.96
+2021-07-04,31.3,45.9,1.6,23.3,Sunny,Summer,July,2021,740.09
+2021-07-05,30.5,45.8,8.2,12.1,Sunny,Summer,July,2021,760.41
+2021-07-06,34.5,44.5,0.9,23.3,Sunny,Summer,July,2021,874.5
+2021-07-07,31.8,58.6,0.4,12.9,Sunny,Summer,July,2021,811.56
+2021-07-08,32.0,50.4,2.6,18.4,Sunny,Summer,July,2021,800.89
+2021-07-09,29.8,49.9,10.5,12.1,Sunny,Summer,July,2021,742.5
+2021-07-10,29.5,36.0,1.4,8.2,Sunny,Summer,July,2021,695.41
+2021-07-11,29.7,57.1,0.2,17.1,Sunny,Summer,July,2021,714.28
+2021-07-12,32.2,42.1,1.2,18.2,Sunny,Summer,July,2021,805.42
+2021-07-13,29.7,52.5,2.1,8.4,Sunny,Summer,July,2021,745.75
+2021-07-14,31.9,54.2,0.5,13.5,Sunny,Summer,July,2021,805.45
+2021-07-15,37.2,62.9,3.2,21.0,Sunny,Summer,July,2021,992.64
+2021-07-16,33.6,41.5,18.3,18.0,Rainy,Summer,July,2021,846.6
+2021-07-17,30.0,27.8,1.8,13.0,Sunny,Summer,July,2021,707.35
+2021-07-18,34.6,53.5,1.3,12.0,Sunny,Summer,July,2021,844.28
+2021-07-19,29.8,66.4,1.5,24.7,Sunny,Summer,July,2021,775.8
+2021-07-20,24.9,61.9,0.4,7.8,Partly Cloudy,Summer,July,2021,643.49
+2021-07-21,28.0,53.7,6.4,14.7,Drizzle,Summer,July,2021,709.13
+2021-07-22,25.4,48.1,1.6,7.7,Partly Cloudy,Summer,July,2021,651.85
+2021-07-23,29.9,58.5,1.5,21.6,Sunny,Summer,July,2021,762.81
+2021-07-24,31.1,44.2,3.2,15.0,Sunny,Summer,July,2021,734.76
+2021-07-25,36.0,55.8,1.8,15.9,Sunny,Summer,July,2021,895.52
+2021-07-26,32.0,56.0,3.1,28.8,Sunny,Summer,July,2021,811.96
+2021-07-27,30.3,60.5,0.2,12.0,Sunny,Summer,July,2021,776.72
+2021-07-28,33.5,74.1,5.0,23.7,Sunny,Summer,July,2021,892.16
+2021-07-29,24.4,55.1,8.5,13.0,Drizzle,Summer,July,2021,635.4
+2021-07-30,31.7,47.9,3.1,13.8,Sunny,Summer,July,2021,791.77
+2021-07-31,33.3,64.25148095909732,9.3,28.2,Sunny,Summer,July,2021,825.91
+2021-08-01,15.139844851904092,39.8,0.7,14.2,Partly Cloudy,Summer,August,2021,616.67
+2021-08-02,33.4,48.4,2.6,8.1,Sunny,Summer,August,2021,849.04
+2021-08-03,31.0,50.7,3.7,16.4,Sunny,Summer,August,2021,782.89
+2021-08-04,15.139844851904092,49.8,3.5,14.1,Sunny,Summer,August,2021,683.75
+2021-08-05,31.9,55.2,2.1,16.8,Sunny,Summer,August,2021,816.05
+2021-08-06,36.8,47.4,1.7,14.3,Sunny,Summer,August,2021,960.38
+2021-08-07,30.5,63.0,0.5,26.1,Sunny,Summer,August,2021,754.67
+2021-08-08,30.7,54.0,2.0,17.8,Sunny,Summer,August,2021,741.54
+2021-08-09,28.6,53.9,0.7,9.6,Sunny,Summer,August,2021,731.32
+2021-08-10,27.5,51.4,5.3,15.6,Drizzle,Summer,August,2021,702.15
+2021-08-11,32.5,55.2,0.9,11.0,Sunny,Summer,August,2021,832.85
+2021-08-12,27.4,64.25148095909732,0.2,13.8,Partly Cloudy,Summer,August,2021,726.81
+2021-08-13,30.2,47.1,3.2,14.739492242595203,Sunny,Summer,August,2021,761.06
+2021-08-14,28.6,48.7,3.6,25.5,Sunny,Summer,August,2021,682.47
+2021-08-15,31.4,51.6,8.2,11.5,Sunny,Summer,August,2021,754.98
+2021-08-16,31.0,43.2,3.4,18.4,Sunny,Summer,August,2021,781.35
+2021-08-17,33.1,47.4,1.7,13.4,Sunny,Summer,August,2021,839.94
+2021-08-18,28.5,50.2,6.5,9.2,Sunny,Summer,August,2021,721.18
+2021-08-19,29.2,61.0,3.1,16.0,Sunny,Summer,August,2021,759.09
+2021-08-20,27.1,56.1,0.3,17.0,Partly Cloudy,Summer,August,2021,703.72
+2021-08-21,28.7,55.5,3.3,17.8,Sunny,Summer,August,2021,695.84
+2021-08-22,31.1,60.8,9.5,1.9,Sunny,Summer,August,2021,765.6
+2021-08-23,32.3,52.9,2.0,8.8,Sunny,Summer,August,2021,822.34
+2021-08-24,15.139844851904092,57.1,1.4,19.8,Partly Cloudy,Summer,August,2021,671.08
+2021-08-25,15.139844851904092,64.25148095909732,0.6,10.4,Sunny,Summer,August,2021,715.87
+2021-08-26,34.1,56.1,0.7,16.0,Sunny,Summer,August,2021,882.28
+2021-08-27,31.2,49.3,2.3,8.7,Sunny,Summer,August,2021,786.94
+2021-08-28,35.6,34.5,3.6,18.7,Sunny,Summer,August,2021,878.54
+2021-08-29,27.7,52.9,0.3,14.739492242595203,Partly Cloudy,Summer,August,2021,669.05
+2021-08-30,26.3,65.4,11.2,18.7,Drizzle,Summer,August,2021,707.22
+2021-08-31,24.7,61.4,5.6,20.2,Drizzle,Summer,August,2021,648.42
+2021-09-01,28.5,67.7,5.3,22.8,Sunny,Autumn,September,2021,607.3
+2021-09-02,26.0,69.9,10.6,9.1,Drizzle,Autumn,September,2021,567.81
+2021-09-03,23.8,60.7,0.5,11.1,Partly Cloudy,Autumn,September,2021,507.27
+2021-09-04,24.8,61.6,3.9,19.5,Partly Cloudy,Autumn,September,2021,490.82
+2021-09-05,20.6,55.1,6.0,20.7,Drizzle,Autumn,September,2021,442.08
+2021-09-06,31.3,57.5,10.6,11.6,Sunny,Autumn,September,2021,649.01
+2021-09-07,24.4,64.9,9.2,11.3,Drizzle,Autumn,September,2021,514.85
+2021-09-08,24.3,69.6,1.9,11.7,Partly Cloudy,Autumn,September,2021,513.83
+2021-09-09,26.2,58.9,17.0,7.0,Rainy,Autumn,September,2021,554.56
+2021-09-10,25.4,56.4,0.8,8.6,Partly Cloudy,Autumn,September,2021,539.12
+2021-09-11,24.7,60.0,12.5,8.8,Drizzle,Autumn,September,2021,488.85
+2021-09-12,21.6,64.8,21.2,13.5,Rainy,Autumn,September,2021,451.77
+2021-09-13,25.4,48.4,1.2,16.4,Partly Cloudy,Autumn,September,2021,529.28
+2021-09-14,29.6,41.6,7.7,17.2,Sunny,Autumn,September,2021,602.35
+2021-09-15,28.0,55.6,0.2,12.5,Sunny,Autumn,September,2021,580.44
+2021-09-16,28.8,50.2,3.1,12.6,Sunny,Autumn,September,2021,586.59
+2021-09-17,22.5,55.9,4.4,15.6,Partly Cloudy,Autumn,September,2021,490.97
+2021-09-18,21.0,58.8,5.2,7.5,Drizzle,Autumn,September,2021,445.86
+2021-09-19,23.6,56.4,16.5,19.8,Rainy,Autumn,September,2021,474.63
+2021-09-20,24.2,71.6,6.7,21.4,Drizzle,Autumn,September,2021,511.98
+2021-09-21,27.3,62.6,3.9,11.9,Partly Cloudy,Autumn,September,2021,578.23
+2021-09-22,18.9,62.4,10.0,13.0,Drizzle,Autumn,September,2021,458.41
+2021-09-23,28.6,65.0,5.653808180535966,21.2,Rainy,Autumn,September,2021,605.11
+2021-09-24,23.5,50.9,0.1,14.739492242595203,Partly Cloudy,Autumn,September,2021,503.4
+2021-09-25,22.7,68.3,24.3,17.9,Rainy,Autumn,September,2021,463.7
+2021-09-26,21.0,59.4,5.653808180535966,14.5,Partly Cloudy,Autumn,September,2021,445.3
+2021-09-27,19.0,65.4,10.1,14.739492242595203,Drizzle,Autumn,September,2021,459.23
+2021-09-28,26.5,51.4,2.0,17.5,Partly Cloudy,Autumn,September,2021,548.03
+2021-09-29,24.2,47.6,0.9,17.7,Partly Cloudy,Autumn,September,2021,512.42
+2021-09-30,20.1,66.5,3.5,17.8,Partly Cloudy,Autumn,September,2021,467.76
+2021-10-01,12.1,71.0,8.3,12.2,Drizzle,Autumn,October,2021,505.07
+2021-10-02,15.0,60.8,3.8,12.7,Partly Cloudy,Autumn,October,2021,476.61
+2021-10-03,21.0,61.0,0.4,18.8,Partly Cloudy,Autumn,October,2021,512.33
+2021-10-04,15.2,77.0,7.3,15.6,Drizzle,Autumn,October,2021,507.33
+2021-10-05,11.5,58.5,18.6,9.1,Rainy,Autumn,October,2021,505.77
+2021-10-06,15.3,81.1,3.9,24.4,Cloudy,Autumn,October,2021,507.11
+2021-10-07,15.2,60.8,2.0,19.9,Partly Cloudy,Autumn,October,2021,507.01
+2021-10-08,7.9,73.1,4.7,15.2,Partly Cloudy,Autumn,October,2021,520.42
+2021-10-09,15.8,65.4,0.4,13.6,Partly Cloudy,Autumn,October,2021,479.23
+2021-10-10,15.3,72.8,13.7,16.0,Drizzle,Autumn,October,2021,477.48
+2021-10-11,18.1,63.6,14.0,17.6,Drizzle,Autumn,October,2021,519.57
+2021-10-12,21.5,66.7,7.1,4.8,Drizzle,Autumn,October,2021,547.57
+2021-10-13,19.4,68.3,3.5,25.6,Partly Cloudy,Autumn,October,2021,528.38
+2021-10-14,15.2,60.0,12.9,11.1,Drizzle,Autumn,October,2021,507.1
+2021-10-15,12.7,73.9,6.5,15.0,Drizzle,Autumn,October,2021,504.31
+2021-10-16,23.7,63.9,5.653808180535966,15.2,Drizzle,Autumn,October,2021,542.55
+2021-10-17,16.2,66.2,8.0,25.0,Drizzle,Autumn,October,2021,480.14
+2021-10-18,16.0,60.0,12.3,14.6,Drizzle,Autumn,October,2021,509.95
+2021-10-19,15.9,47.5,7.3,22.9,Drizzle,Autumn,October,2021,509.48
+2021-10-20,16.6,66.5,4.3,17.0,Partly Cloudy,Autumn,October,2021,511.89
+2021-10-21,15.6,87.3,25.4,10.2,Rainy,Autumn,October,2021,508.01
+2021-10-22,14.3,64.25148095909732,6.2,15.7,Drizzle,Autumn,October,2021,505.15
+2021-10-23,14.4,67.8,7.4,14.4,Drizzle,Autumn,October,2021,475.14
+2021-10-24,15.9,65.9,2.0,9.6,Partly Cloudy,Autumn,October,2021,479.27
+2021-10-25,14.4,68.2,7.9,16.8,Drizzle,Autumn,October,2021,505.23
+2021-10-26,13.9,72.4,6.8,15.1,Drizzle,Autumn,October,2021,504.5
+2021-10-27,16.3,58.6,1.6,17.8,Partly Cloudy,Autumn,October,2021,510.87
+2021-10-28,15.2,76.9,0.5,16.0,Partly Cloudy,Autumn,October,2021,507.45
+2021-10-29,20.5,73.7,7.4,11.7,Drizzle,Autumn,October,2021,537.75
+2021-10-30,8.0,73.7,11.5,18.8,Drizzle,Autumn,October,2021,490.13
+2021-10-31,19.3,71.5,5.9,11.9,Drizzle,Autumn,October,2021,497.58
+2021-11-01,11.7,74.2,1.8,0.0,Partly Cloudy,Autumn,November,2021,572.49
+2021-11-02,1.8,79.4,7.7,15.6,Drizzle,Autumn,November,2021,646.91
+2021-11-03,7.0,78.7,0.6,12.2,Partly Cloudy,Autumn,November,2021,592.83
+2021-11-04,6.9,71.2,4.1,16.9,Partly Cloudy,Autumn,November,2021,593.68
+2021-11-05,3.8,69.4,1.2,25.0,Partly Cloudy,Autumn,November,2021,622.28
+2021-11-06,5.7,74.8,1.4,25.1,Partly Cloudy,Autumn,November,2021,573.25
+2021-11-07,4.7,86.4,1.6,14.2,Cloudy,Autumn,November,2021,582.69
+2021-11-08,13.3,64.1,5.653808180535966,10.9,Partly Cloudy,Autumn,November,2021,570.74
+2021-11-09,10.8,62.3,0.4,17.9,Partly Cloudy,Autumn,November,2021,574.18
+2021-11-10,11.8,75.3,3.6,13.1,Partly Cloudy,Autumn,November,2021,572.13
+2021-11-11,10.2,74.4,5.0,17.0,Partly Cloudy,Autumn,November,2021,575.67
+2021-11-12,4.6,75.4,5.653808180535966,11.7,Partly Cloudy,Autumn,November,2021,614.07
+2021-11-13,6.4,76.0,3.4,16.3,Partly Cloudy,Autumn,November,2021,567.86
+2021-11-14,9.5,72.2,12.8,10.9,Drizzle,Autumn,November,2021,548.38
+2021-11-15,4.3,85.9,1.1,20.9,Cloudy,Autumn,November,2021,617.34
+2021-11-16,10.1,61.2,4.9,12.1,Partly Cloudy,Autumn,November,2021,576.63
+2021-11-17,7.3,67.4,0.4,18.3,Partly Cloudy,Autumn,November,2021,590.77
+2021-11-18,6.9,73.2,0.5,8.7,Partly Cloudy,Autumn,November,2021,593.6
+2021-11-19,10.1,60.9,6.0,18.9,Drizzle,Autumn,November,2021,576.58
+2021-11-20,9.3,72.6,5.8,10.2,Drizzle,Autumn,November,2021,549.8
+2021-11-21,6.9,87.3,14.7,16.3,Cloudy,Autumn,November,2021,563.94
+2021-11-22,11.5,74.2,5.7,20.1,Drizzle,Autumn,November,2021,572.33
+2021-11-23,4.8,75.8,22.5,14.0,Rainy,Autumn,November,2021,611.6
+2021-11-24,9.8,63.9,0.3,9.9,Partly Cloudy,Autumn,November,2021,577.82
+2021-11-25,9.8,69.1,0.7,17.5,Partly Cloudy,Autumn,November,2021,577.25
+2021-11-26,7.1,71.0,0.3,10.8,Partly Cloudy,Autumn,November,2021,592.11
+2021-11-27,9.0,71.5,1.4,13.0,Partly Cloudy,Autumn,November,2021,550.75
+2021-11-28,4.2,84.3,5.5,16.3,Cloudy,Autumn,November,2021,588.51
+2021-11-29,10.8,78.5,7.3,21.8,Drizzle,Autumn,November,2021,573.88
+2021-11-30,7.4,65.1,0.3,15.1,Partly Cloudy,Autumn,November,2021,590.63
+2021-12-01,-0.6,79.0,17.5,15.1,Rainy,Winter,December,2021,854.74
+2021-12-02,4.1,81.0,11.1,18.7,Cloudy,Winter,December,2021,775.66
+2021-12-03,-1.1,86.1,2.1,15.3,Snowy,Winter,December,2021,864.59
+2021-12-04,-3.2,89.6,0.5,18.2,Snowy,Winter,December,2021,876.67
+2021-12-05,-3.7,68.9,1.1,20.4,Snowy,Winter,December,2021,889.15
+2021-12-06,2.8,70.5,0.8,13.4,Partly Cloudy,Winter,December,2021,794.28
+2021-12-07,-2.8,66.9,0.8,0.0,Snowy,Winter,December,2021,901.68
+2021-12-08,6.3,75.1,4.4,10.9,Partly Cloudy,Winter,December,2021,748.38
+2021-12-09,-5.2,80.7,1.7,21.0,Snowy,Winter,December,2021,961.13
+2021-12-10,6.1,84.9,2.7,14.8,Cloudy,Winter,December,2021,750.73
+2021-12-11,1.6,76.4,27.3,13.3,Rainy,Winter,December,2021,779.38
+2021-12-12,0.7,74.4,6.9,20.8,Drizzle,Winter,December,2021,795.1
+2021-12-13,-0.6,78.2,17.9,14.5,Rainy,Winter,December,2021,854.19
+2021-12-14,2.2,70.3,0.9,4.5,Partly Cloudy,Winter,December,2021,803.6
+2021-12-15,0.9,64.25148095909732,2.9,7.5,Cloudy,Winter,December,2021,825.78
+2021-12-16,4.3,64.1,4.9,17.1,Partly Cloudy,Winter,December,2021,772.66
+2021-12-17,1.3,78.5,0.5,14.7,Partly Cloudy,Winter,December,2021,819.14
+2021-12-18,1.5,93.2,0.0,22.3,Cloudy,Winter,December,2021,780.41
+2021-12-19,-0.1,77.1,6.7,11.3,Snowy,Winter,December,2021,810.18
+2021-12-20,0.8,75.5,6.2,13.5,Drizzle,Winter,December,2021,827.94
+2021-12-21,1.9,74.1,3.2,10.6,Partly Cloudy,Winter,December,2021,808.75
+2021-12-22,-4.1,75.6,4.0,12.4,Snowy,Winter,December,2021,933.0
+2021-12-23,-3.0,88.0,3.2,5.5,Snowy,Winter,December,2021,906.31
+2021-12-24,3.2,59.3,0.1,13.1,Partly Cloudy,Winter,December,2021,788.33
+2021-12-25,1.5,89.3,2.5,14.7,Cloudy,Winter,December,2021,780.92
+2021-12-26,0.4,65.6,1.2,14.3,Partly Cloudy,Winter,December,2021,800.97
+2021-12-27,1.1,74.9,0.6,25.7,Partly Cloudy,Winter,December,2021,821.94
+2021-12-28,2.0,73.6,18.8,24.2,Rainy,Winter,December,2021,807.25
+2021-12-29,-0.6,81.7,5.5,11.2,Snowy,Winter,December,2021,854.31
+2021-12-30,-1.3,64.2,7.8,4.8,Snowy,Winter,December,2021,868.59
+2021-12-31,1.6,80.7,2.3,14.5,Cloudy,Winter,December,2021,813.5
+2022-01-01,-4.9,91.2,2.5,16.9,Snowy,Winter,January,2022,943.85
+2022-01-02,-0.8,64.1,1.4,10.7,Snowy,Winter,January,2022,849.23
+2022-01-03,-7.1,76.5,0.5,14.739492242595203,Snowy,Winter,January,2022,1039.18
+2022-01-04,1.1,69.7,1.0,22.9,Partly Cloudy,Winter,January,2022,847.2
+2022-01-05,-0.6,78.4,8.0,13.7,Snowy,Winter,January,2022,879.62
+2022-01-06,-1.2,75.2,5.7,18.3,Snowy,Winter,January,2022,891.51
+2022-01-07,0.9,69.9,4.0,10.3,Partly Cloudy,Winter,January,2022,851.29
+2022-01-08,3.0,78.9,3.2,14.7,Partly Cloudy,Winter,January,2022,781.55
+2022-01-09,1.0,89.4,12.8,13.3,Cloudy,Winter,January,2022,814.95
+2022-01-10,-7.5,73.5,0.4,11.6,Snowy,Winter,January,2022,1050.79
+2022-01-11,-5.8,80.8,1.6,20.8,Snowy,Winter,January,2022,1002.3
+2022-01-12,-3.9,64.7,2.2,8.1,Snowy,Winter,January,2022,953.51
+2022-01-13,-1.9,67.3,7.6,16.5,Snowy,Winter,January,2022,906.58
+2022-01-14,-0.4,78.8,24.5,13.2,Rainy,Winter,January,2022,875.09
+2022-01-15,-4.2,86.9,1.4,17.1,Snowy,Winter,January,2022,926.45
+2022-01-16,-1.4,77.8,10.4,13.3,Snowy,Winter,January,2022,861.16
+2022-01-17,-4.3,72.5,8.9,19.3,Snowy,Winter,January,2022,963.55
+2022-01-18,-3.8,75.0,1.3,10.3,Snowy,Winter,January,2022,950.56
+2022-01-19,-6.2,65.0,2.5,20.8,Snowy,Winter,January,2022,1013.48
+2022-01-20,-4.8,79.8,5.653808180535966,14.9,Snowy,Winter,January,2022,976.3
+2022-01-21,-6.1,82.1,19.1,8.4,Rainy,Winter,January,2022,1011.24
+2022-01-22,-4.9,71.4,1.0,18.4,Snowy,Winter,January,2022,943.91
+2022-01-23,1.2,71.2,8.0,14.0,Drizzle,Winter,January,2022,810.71
+2022-01-24,-4.8,77.1,2.0,6.5,Snowy,Winter,January,2022,975.64
+2022-01-25,5.9,71.5,6.6,16.7,Drizzle,Winter,January,2022,777.99
+2022-01-26,-0.5,74.5,2.7,20.0,Snowy,Winter,January,2022,877.31
+2022-01-27,-1.4,91.8,4.3,21.4,Snowy,Winter,January,2022,895.61
+2022-01-28,-4.6,73.0,8.9,13.1,Snowy,Winter,January,2022,971.1
+2022-01-29,0.1,72.1,8.2,15.7,Drizzle,Winter,January,2022,831.25
+2022-01-30,-3.7,69.8,10.1,15.3,Snowy,Winter,January,2022,913.68
+2022-01-31,-1.6,81.0,0.3,22.4,Snowy,Winter,January,2022,899.98
+2022-02-01,8.7,70.6,4.7,10.9,Partly Cloudy,Winter,February,2022,727.11
+2022-02-02,0.7,66.8,0.6,12.7,Partly Cloudy,Winter,February,2022,829.62
+2022-02-03,4.4,82.6,2.2,10.8,Cloudy,Winter,February,2022,771.65
+2022-02-04,-1.1,83.4,3.2,7.8,Snowy,Winter,February,2022,864.62
+2022-02-05,0.9,67.2,2.1,16.2,Partly Cloudy,Winter,February,2022,791.34
+2022-02-06,6.3,57.1,2.9,23.0,Partly Cloudy,Winter,February,2022,714.28
+2022-02-07,-0.9,80.1,22.7,14.0,Rainy,Winter,February,2022,860.72
+2022-02-08,6.4,66.5,0.6,10.6,Partly Cloudy,Winter,February,2022,747.93
+2022-02-09,3.1,78.3,4.5,15.9,Partly Cloudy,Winter,February,2022,789.76
+2022-02-10,-0.7,56.2,2.0,17.9,Snowy,Winter,February,2022,856.6
+2022-02-11,2.9,79.1,0.6,14.2,Partly Cloudy,Winter,February,2022,792.57
+2022-02-12,3.9,62.3,0.7,22.0,Partly Cloudy,Winter,February,2022,743.67
+2022-02-13,2.9,77.8,11.9,10.9,Drizzle,Winter,February,2022,757.81
+2022-02-14,-3.7,72.1,8.5,13.6,Snowy,Winter,February,2022,923.31
+2022-02-15,15.139844851904092,64.4,9.5,16.5,Snowy,Winter,February,2022,573.12
+2022-02-16,0.3,68.7,19.1,17.0,Rainy,Winter,February,2022,836.59
+2022-02-17,0.8,64.25148095909732,0.9,15.2,Partly Cloudy,Winter,February,2022,827.5
+2022-02-18,2.9,72.8,1.8,8.6,Partly Cloudy,Winter,February,2022,792.28
+2022-02-19,1.5,76.7,4.4,26.7,Partly Cloudy,Winter,February,2022,781.1
+2022-02-20,-3.0,87.8,2.6,13.8,Snowy,Winter,February,2022,872.13
+2022-02-21,2.1,59.5,2.2,15.6,Partly Cloudy,Winter,February,2022,805.59
+2022-02-22,2.8,84.9,1.8,18.1,Cloudy,Winter,February,2022,794.39
+2022-02-23,2.7,72.8,3.6,11.8,Partly Cloudy,Winter,February,2022,795.5
+2022-02-24,4.2,64.8,3.4,15.3,Partly Cloudy,Winter,February,2022,774.27
+2022-02-25,3.5,61.4,0.7,11.6,Partly Cloudy,Winter,February,2022,783.7
+2022-02-26,2.4,70.5,2.6,17.1,Partly Cloudy,Winter,February,2022,765.71
+2022-02-27,0.8,79.4,3.2,13.6,Partly Cloudy,Winter,February,2022,793.11
+2022-02-28,-4.0,71.0,3.4,16.3,Snowy,Winter,February,2022,930.92
+2022-03-01,9.3,77.1,1.4,9.8,Partly Cloudy,Spring,March,2022,579.43
+2022-03-02,8.6,53.4,8.1,10.9,Drizzle,Spring,March,2022,583.17
+2022-03-03,8.8,64.9,0.2,8.2,Partly Cloudy,Spring,March,2022,582.05
+2022-03-04,4.2,55.0,2.6,11.4,Partly Cloudy,Spring,March,2022,617.87
+2022-03-05,4.8,67.9,9.1,2.1,Drizzle,Spring,March,2022,581.6
+2022-03-06,11.2,72.1,5.0,13.5,Partly Cloudy,Spring,March,2022,542.79
+2022-03-07,7.9,61.6,1.8,12.3,Partly Cloudy,Spring,March,2022,586.86
+2022-03-08,10.0,44.2,7.1,15.8,Drizzle,Spring,March,2022,577.04
+2022-03-09,8.1,66.6,5.0,15.2,Partly Cloudy,Spring,March,2022,585.67
+2022-03-10,8.1,68.5,9.5,21.3,Drizzle,Spring,March,2022,585.71
+2022-03-11,10.8,68.2,8.0,28.0,Drizzle,Spring,March,2022,574.24
+2022-03-12,6.5,74.9,5.7,20.7,Drizzle,Spring,March,2022,566.45
+2022-03-13,8.3,56.4,4.0,12.7,Partly Cloudy,Spring,March,2022,554.54
+2022-03-14,6.6,70.4,0.9,12.5,Partly Cloudy,Spring,March,2022,596.18
+2022-03-15,6.7,74.5,1.8,19.3,Partly Cloudy,Spring,March,2022,595.27
+2022-03-16,7.1,50.8,3.3,6.6,Partly Cloudy,Spring,March,2022,592.12
+2022-03-17,8.7,67.6,5.5,13.4,Drizzle,Spring,March,2022,582.17
+2022-03-18,6.6,61.0,4.3,13.8,Partly Cloudy,Spring,March,2022,595.77
+2022-03-19,11.8,64.3,2.0,17.9,Partly Cloudy,Spring,March,2022,541.74
+2022-03-20,5.3,67.8,0.0,18.1,Partly Cloudy,Spring,March,2022,577.29
+2022-03-21,7.4,61.1,4.1,11.3,Partly Cloudy,Spring,March,2022,590.58
+2022-03-22,6.7,59.6,2.0,12.9,Partly Cloudy,Spring,March,2022,595.14
+2022-03-23,12.3,65.3,8.0,17.2,Drizzle,Spring,March,2022,571.75
+2022-03-24,8.6,56.3,5.653808180535966,11.0,Partly Cloudy,Spring,March,2022,582.89
+2022-03-25,11.1,56.3,5.3,21.0,Drizzle,Spring,March,2022,573.32
+2022-03-26,3.5,70.4,17.0,18.0,Rainy,Spring,March,2022,596.21
+2022-03-27,8.8,55.8,5.653808180535966,15.9,Partly Cloudy,Spring,March,2022,551.94
+2022-03-28,15.139844851904092,70.3,3.8,17.0,Partly Cloudy,Spring,March,2022,536.41
+2022-03-29,8.2,68.7,0.6,12.7,Partly Cloudy,Spring,March,2022,585.6
+2022-03-30,11.2,51.2,5.9,11.9,Drizzle,Spring,March,2022,573.1
+2022-03-31,6.4,59.6,4.8,12.9,Partly Cloudy,Spring,March,2022,598.04
+2022-04-01,19.2,64.25148095909732,4.2,17.5,Partly Cloudy,Spring,April,2022,535.62
+2022-04-02,21.9,52.2,5.9,16.0,Drizzle,Spring,April,2022,529.64
+2022-04-03,13.9,56.3,18.2,12.9,Rainy,Spring,April,2022,483.26
+2022-04-04,13.7,63.7,1.7,18.7,Partly Cloudy,Spring,April,2022,512.68
+2022-04-05,19.4,66.3,0.2,14.1,Partly Cloudy,Spring,April,2022,536.55
+2022-04-06,19.7,58.0,15.8,11.5,Rainy,Spring,April,2022,539.54
+2022-04-07,13.4,55.2,6.9,16.3,Drizzle,Spring,April,2022,513.06
+2022-04-08,13.7,71.4,17.7,9.9,Rainy,Spring,April,2022,513.31
+2022-04-09,14.2,73.9,7.3,6.6,Drizzle,Spring,April,2022,483.14
+2022-04-10,11.0,67.8,13.3,15.0,Drizzle,Spring,April,2022,484.99
+2022-04-11,12.2,60.7,4.5,11.7,Partly Cloudy,Spring,April,2022,513.54
+2022-04-12,15.139844851904092,53.5,11.1,13.7,Drizzle,Spring,April,2022,489.07
+2022-04-13,12.7,53.4,19.5,10.2,Rainy,Spring,April,2022,512.78
+2022-04-14,14.9,64.2,6.8,21.0,Drizzle,Spring,April,2022,514.74
+2022-04-15,15.7,63.3,1.6,11.7,Partly Cloudy,Spring,April,2022,516.95
+2022-04-16,19.7,71.2,2.5,12.8,Partly Cloudy,Spring,April,2022,508.82
+2022-04-17,12.0,65.2,1.8,16.9,Partly Cloudy,Spring,April,2022,483.44
+2022-04-18,18.0,48.0,2.3,8.1,Partly Cloudy,Spring,April,2022,527.01
+2022-04-19,14.4,68.4,2.9,7.7,Partly Cloudy,Spring,April,2022,513.47
+2022-04-20,14.9,52.0,65.5,16.9,Drizzle,Spring,April,2022,514.37
+2022-04-21,17.0,56.9,7.1,12.8,Drizzle,Spring,April,2022,522.27
+2022-04-22,11.6,62.0,4.4,10.5,Partly Cloudy,Spring,April,2022,514.27
+2022-04-23,16.1,76.0,7.6,18.0,Drizzle,Spring,April,2022,488.69
+2022-04-24,15.5,84.9,0.7,10.9,Cloudy,Spring,April,2022,486.31
+2022-04-25,16.5,64.9,0.7,13.6,Partly Cloudy,Spring,April,2022,519.66
+2022-04-26,15.9,58.5,1.5,10.5,Partly Cloudy,Spring,April,2022,517.32
+2022-04-27,22.4,64.3,5.8,16.5,Drizzle,Spring,April,2022,564.84
+2022-04-28,13.1,67.1,1.9,21.7,Partly Cloudy,Spring,April,2022,512.62
+2022-04-29,13.4,57.4,2.7,5.7,Partly Cloudy,Spring,April,2022,512.86
+2022-04-30,13.1,74.4,4.1,15.6,Partly Cloudy,Spring,April,2022,482.99
+2022-05-01,19.3,59.8,11.7,19.3,Drizzle,Spring,May,2022,456.41
+2022-05-02,19.1,62.0,0.1,12.9,Partly Cloudy,Spring,May,2022,484.55
+2022-05-03,24.6,63.3,7.3,9.3,Drizzle,Spring,May,2022,542.42
+2022-05-04,25.3,61.4,7.7,17.1,Drizzle,Spring,May,2022,569.47
+2022-05-05,19.3,64.7,11.2,20.0,Drizzle,Spring,May,2022,486.03
+2022-05-06,18.5,53.1,18.9,19.5,Rainy,Spring,May,2022,480.54
+2022-05-07,22.4,53.5,0.1,16.8,Partly Cloudy,Spring,May,2022,485.24
+2022-05-08,19.3,49.2,1.2,15.5,Partly Cloudy,Spring,May,2022,456.49
+2022-05-09,22.9,61.5,15.2,10.5,Rainy,Spring,May,2022,520.87
+2022-05-10,15.139844851904092,64.2,5.653808180535966,19.3,Partly Cloudy,Spring,May,2022,519.25
+2022-05-11,16.5,61.7,5.8,19.0,Drizzle,Spring,May,2022,469.46
+2022-05-12,25.6,71.4,7.6,14.739492242595203,Drizzle,Spring,May,2022,589.6
+2022-05-13,15.139844851904092,58.0,8.0,16.8,Drizzle,Spring,May,2022,559.07
+2022-05-14,19.2,63.3,18.8,18.3,Rainy,Spring,May,2022,455.06
+2022-05-15,19.8,49.3,40.5,19.4,Rainy,Spring,May,2022,460.33
+2022-05-16,21.9,54.9,8.9,14.6,Drizzle,Spring,May,2022,509.31
+2022-05-17,22.0,63.6,2.4,10.7,Partly Cloudy,Spring,May,2022,510.76
+2022-05-18,23.0,64.8,14.8,12.5,Drizzle,Spring,May,2022,521.86
+2022-05-19,27.0,55.6,5.653808180535966,10.0,Partly Cloudy,Spring,May,2022,588.06
+2022-05-20,20.5,57.4,1.8,14.7,Partly Cloudy,Spring,May,2022,495.73
+2022-05-21,18.6,45.9,15.9,13.8,Rainy,Spring,May,2022,451.22
+2022-05-22,16.9,55.1,2.1,25.7,Partly Cloudy,Spring,May,2022,441.28
+2022-05-23,18.8,65.1,1.7,19.5,Partly Cloudy,Spring,May,2022,482.59
+2022-05-24,20.9,62.6,1.0,19.8,Partly Cloudy,Spring,May,2022,499.66
+2022-05-25,26.4,62.0,13.7,17.4,Drizzle,Spring,May,2022,587.44
+2022-05-26,19.4,58.4,4.9,13.2,Partly Cloudy,Spring,May,2022,487.28
+2022-05-27,21.7,58.1,7.9,13.6,Drizzle,Spring,May,2022,507.33
+2022-05-28,21.0,52.7,1.9,14.1,Partly Cloudy,Spring,May,2022,470.19
+2022-05-29,24.6,63.6,9.9,15.9,Drizzle,Spring,May,2022,512.41
+2022-05-30,28.6,61.4,10.0,16.9,Sunny,Spring,May,2022,624.65
+2022-05-31,19.4,61.9,2.6,14.739492242595203,Partly Cloudy,Spring,May,2022,486.94
+2022-06-01,25.5,50.8,2.1,13.5,Partly Cloudy,Summer,June,2022,688.89
+2022-06-02,30.1,37.8,0.9,12.0,Sunny,Summer,June,2022,783.73
+2022-06-03,29.0,63.8,15.0,8.0,Sunny,Summer,June,2022,785.6
+2022-06-04,32.5,51.2,4.1,21.4,Sunny,Summer,June,2022,809.66
+2022-06-05,42.5,64.25148095909732,10.9,26.0,Sunny,Summer,June,2022,1088.02
+2022-06-06,25.9,60.5,1.4,21.0,Partly Cloudy,Summer,June,2022,715.48
+2022-06-07,28.8,51.9,6.1,8.7,Sunny,Summer,June,2022,756.34
+2022-06-08,30.3,63.5,5.8,18.9,Sunny,Summer,June,2022,815.99
+2022-06-09,29.5,59.9,4.7,20.1,Sunny,Summer,June,2022,788.66
+2022-06-10,28.5,60.5,13.5,13.0,Sunny,Summer,June,2022,767.47
+2022-06-11,30.2,44.1,2.0,17.4,Sunny,Summer,June,2022,745.44
+2022-06-12,30.5,64.7,0.6,12.7,Sunny,Summer,June,2022,782.8
+2022-06-13,31.1,57.1,4.5,22.6,Sunny,Summer,June,2022,823.73
+2022-06-14,28.9,52.0,5.2,16.8,Sunny,Summer,June,2022,759.43
+2022-06-15,26.5,56.1,3.4,10.4,Partly Cloudy,Summer,June,2022,717.4
+2022-06-16,27.4,40.8,0.9,18.3,Partly Cloudy,Summer,June,2022,723.02
+2022-06-17,30.6,58.3,2.8,20.3,Sunny,Summer,June,2022,812.98
+2022-06-18,24.5,46.8,1.5,16.0,Partly Cloudy,Summer,June,2022,630.48
+2022-06-19,28.1,44.2,2.2,17.4,Sunny,Summer,June,2022,696.86
+2022-06-20,25.8,42.8,4.1,14.7,Partly Cloudy,Summer,June,2022,692.41
+2022-06-21,27.1,63.9,5.5,9.3,Drizzle,Summer,June,2022,744.7
+2022-06-22,30.8,50.0,1.1,14.2,Sunny,Summer,June,2022,801.44
+2022-06-23,27.6,64.25148095909732,2.1,17.6,Partly Cloudy,Summer,June,2022,755.42
+2022-06-24,27.1,50.7,1.3,14.4,Partly Cloudy,Summer,June,2022,718.41
+2022-06-25,22.9,41.3,0.9,19.0,Partly Cloudy,Summer,June,2022,607.32
+2022-06-26,29.2,46.1,6.1,13.0,Sunny,Summer,June,2022,721.71
+2022-06-27,28.9,64.9,9.6,13.4,Sunny,Summer,June,2022,785.47
+2022-06-28,33.5,53.8,1.8,19.2,Sunny,Summer,June,2022,884.4
+2022-06-29,26.1,50.6,5.6,16.1,Drizzle,Summer,June,2022,698.66
+2022-06-30,27.7,56.3,9.1,12.9,Drizzle,Summer,June,2022,741.26
+2022-07-01,31.7,56.0,5.6,20.2,Sunny,Summer,July,2022,804.27
+2022-07-02,35.7,60.9,0.6,11.6,Sunny,Summer,July,2022,895.67
+2022-07-03,30.7,63.6,9.4,11.4,Sunny,Summer,July,2022,752.39
+2022-07-04,31.8,49.1,1.4,0.9,Sunny,Summer,July,2022,794.76
+2022-07-05,32.8,41.4,1.2,12.2,Sunny,Summer,July,2022,822.91
+2022-07-06,31.6,48.7,0.2,21.5,Sunny,Summer,July,2022,788.66
+2022-07-07,29.7,54.1,2.0,14.739492242595203,Sunny,Summer,July,2022,748.35
+2022-07-08,15.139844851904092,44.3,0.3,10.2,Sunny,Summer,July,2022,698.99
+2022-07-09,34.2,64.25148095909732,0.9,17.2,Sunny,Summer,July,2022,853.53
+2022-07-10,27.9,54.8,1.1,3.8,Partly Cloudy,Summer,July,2022,669.11
+2022-07-11,31.4,64.25148095909732,5.0,12.4,Sunny,Summer,July,2022,812.45
+2022-07-12,28.9,52.3,6.3,20.7,Sunny,Summer,July,2022,726.31
+2022-07-13,34.6,45.9,1.1,25.2,Sunny,Summer,July,2022,877.54
+2022-07-14,26.4,50.2,5.9,16.5,Drizzle,Summer,July,2022,670.5
+2022-07-15,29.3,44.6,5.8,10.4,Sunny,Summer,July,2022,731.08
+2022-07-16,32.1,59.1,4.3,10.2,Sunny,Summer,July,2022,780.95
+2022-07-17,35.7,60.3,0.5,15.7,Sunny,Summer,July,2022,894.15
+2022-07-18,30.8,37.2,3.5,16.4,Sunny,Summer,July,2022,767.83
+2022-07-19,29.3,44.6,8.7,24.3,Sunny,Summer,July,2022,731.18
+2022-07-20,36.6,40.0,3.4,19.9,Sunny,Summer,July,2022,945.23
+2022-07-21,26.7,46.8,1.2,15.4,Partly Cloudy,Summer,July,2022,675.16
+2022-07-22,24.4,51.3,2.1,14.739492242595203,Partly Cloudy,Summer,July,2022,635.71
+2022-07-23,32.3,40.4,3.1,30.1,Sunny,Summer,July,2022,768.05
+2022-07-24,29.5,44.6,2.1,18.1,Sunny,Summer,July,2022,695.05
+2022-07-25,27.9,44.0,0.4,11.7,Partly Cloudy,Summer,July,2022,700.02
+2022-07-26,33.1,53.7,1.1,13.9,Sunny,Summer,July,2022,839.21
+2022-07-27,31.7,52.6,4.9,10.6,Sunny,Summer,July,2022,797.24
+2022-07-28,29.3,46.2,5.9,3.0,Sunny,Summer,July,2022,730.95
+2022-07-29,27.2,53.4,0.4,16.6,Partly Cloudy,Summer,July,2022,691.87
+2022-07-30,33.6,47.6,9.1,23.9,Sunny,Summer,July,2022,806.13
+2022-07-31,33.0,49.8,1.2,6.8,Sunny,Summer,July,2022,787.65
+2022-08-01,29.7,67.4,4.3,15.3,Sunny,Summer,August,2022,783.97
+2022-08-02,35.5,64.7,5.6,11.5,Sunny,Summer,August,2022,945.54
+2022-08-03,26.8,43.6,6.7,17.6,Drizzle,Summer,August,2022,685.7
+2022-08-04,25.4,60.6,11.7,14.1,Drizzle,Summer,August,2022,681.95
+2022-08-05,27.9,60.5,1.5,8.2,Partly Cloudy,Summer,August,2022,729.52
+2022-08-06,29.9,44.8,7.8,10.1,Sunny,Summer,August,2022,712.75
+2022-08-07,30.7,60.6,0.6,10.8,Sunny,Summer,August,2022,754.79
+2022-08-08,29.3,66.3,4.9,21.7,Sunny,Summer,August,2022,772.03
+2022-08-09,31.1,45.0,5.4,21.5,Sunny,Summer,August,2022,783.6
+2022-08-10,26.2,46.7,4.5,13.4,Partly Cloudy,Summer,August,2022,674.85
+2022-08-11,34.3,62.1,1.2,14.739492242595203,Sunny,Summer,August,2022,901.23
+2022-08-12,29.8,56.2,8.3,14.1,Sunny,Summer,August,2022,763.29
+2022-08-13,33.4,58.4,0.7,13.4,Sunny,Summer,August,2022,824.89
+2022-08-14,31.0,56.7,0.2,15.3,Sunny,Summer,August,2022,754.65
+2022-08-15,31.4,57.1,5.1,16.4,Sunny,Summer,August,2022,806.06
+2022-08-16,31.7,43.4,2.6,12.2,Sunny,Summer,August,2022,800.13
+2022-08-17,31.3,62.4,7.6,15.1,Sunny,Summer,August,2022,814.73
+2022-08-18,31.9,63.4,1.9,18.9,Sunny,Summer,August,2022,832.91
+2022-08-19,34.0,52.2,0.7,15.6,Sunny,Summer,August,2022,871.44
+2022-08-20,30.6,64.25148095909732,7.2,15.2,Sunny,Summer,August,2022,759.28
+2022-08-21,32.1,41.8,3.2,17.5,Sunny,Summer,August,2022,770.82
+2022-08-22,29.7,58.1,5.653808180535966,18.3,Sunny,Summer,August,2022,765.37
+2022-08-23,34.3,58.6,5.1,14.7,Sunny,Summer,August,2022,894.05
+2022-08-24,28.0,53.5,2.9,12.6,Partly Cloudy,Summer,August,2022,717.02
+2022-08-25,35.4,63.0,3.7,15.9,Sunny,Summer,August,2022,938.45
+2022-08-26,29.9,51.3,2.5,7.0,Sunny,Summer,August,2022,756.02
+2022-08-27,25.7,58.5,72.1,13.9,Drizzle,Summer,August,2022,642.26
+2022-08-28,30.4,45.8,7.1,2.6,Sunny,Summer,August,2022,725.31
+2022-08-29,28.0,53.8,4.9,6.6,Partly Cloudy,Summer,August,2022,717.51
+2022-08-30,32.5,52.6,0.4,5.9,Sunny,Summer,August,2022,827.84
+2022-08-31,28.0,55.8,7.3,20.2,Sunny,Summer,August,2022,722.27
+2022-09-01,22.7,57.0,6.7,15.1,Drizzle,Autumn,September,2022,493.22
+2022-09-02,18.3,58.9,7.2,8.7,Drizzle,Autumn,September,2022,454.5
+2022-09-03,22.6,66.6,2.7,17.5,Partly Cloudy,Autumn,September,2022,462.75
+2022-09-04,16.7,56.5,12.7,19.9,Drizzle,Autumn,September,2022,415.94
+2022-09-05,19.2,47.1,7.8,17.5,Drizzle,Autumn,September,2022,460.79
+2022-09-06,26.3,74.0,0.7,14.1,Partly Cloudy,Autumn,September,2022,578.82
+2022-09-07,26.4,64.25148095909732,3.1,16.2,Partly Cloudy,Autumn,September,2022,565.6
+2022-09-08,25.3,49.7,13.0,19.5,Drizzle,Autumn,September,2022,527.49
+2022-09-09,21.1,65.5,0.3,12.7,Partly Cloudy,Autumn,September,2022,476.55
+2022-09-10,23.9,56.0,19.5,15.1,Rainy,Autumn,September,2022,477.93
+2022-09-11,24.0,62.1,6.8,13.7,Drizzle,Autumn,September,2022,479.51
+2022-09-12,20.5,62.4,6.0,6.9,Drizzle,Autumn,September,2022,471.19
+2022-09-13,28.5,64.25148095909732,1.9,19.6,Sunny,Autumn,September,2022,602.31
+2022-09-14,26.6,53.7,1.7,25.3,Partly Cloudy,Autumn,September,2022,553.62
+2022-09-15,23.3,54.5,17.1,10.6,Rainy,Autumn,September,2022,501.01
+2022-09-16,24.1,52.7,2.1,19.8,Partly Cloudy,Autumn,September,2022,510.76
+2022-09-17,24.6,53.3,9.0,10.8,Drizzle,Autumn,September,2022,487.91
+2022-09-18,17.9,59.5,3.0,15.7,Partly Cloudy,Autumn,September,2022,421.6
+2022-09-19,23.3,54.3,0.9,22.5,Partly Cloudy,Autumn,September,2022,500.35
+2022-09-20,22.0,64.25148095909732,5.653808180535966,12.4,Partly Cloudy,Autumn,September,2022,485.35
+2022-09-21,21.0,71.9,4.7,14.9,Partly Cloudy,Autumn,September,2022,475.56
+2022-09-22,23.2,55.4,22.3,6.0,Rainy,Autumn,September,2022,499.12
+2022-09-23,29.4,61.9,2.8,11.7,Sunny,Autumn,September,2022,615.81
+2022-09-24,25.9,64.25148095909732,2.7,5.5,Partly Cloudy,Autumn,September,2022,528.28
+2022-09-25,22.3,63.8,2.5,17.1,Partly Cloudy,Autumn,September,2022,458.89
+2022-09-26,25.7,60.6,4.4,19.2,Partly Cloudy,Autumn,September,2022,549.71
+2022-09-27,28.2,65.9,3.5,13.9,Sunny,Autumn,September,2022,599.18
+2022-09-28,26.8,63.9,12.7,16.4,Drizzle,Autumn,September,2022,571.71
+2022-09-29,24.2,50.1,4.2,13.4,Partly Cloudy,Autumn,September,2022,512.07
+2022-09-30,22.1,67.0,4.3,14.739492242595203,Partly Cloudy,Autumn,September,2022,486.47
+2022-10-01,18.1,75.1,1.2,15.6,Partly Cloudy,Autumn,October,2022,489.62
+2022-10-02,17.2,61.9,32.5,5.1,Rainy,Autumn,October,2022,484.54
+2022-10-03,18.7,68.3,2.3,19.7,Partly Cloudy,Autumn,October,2022,523.39
+2022-10-04,17.9,73.5,0.6,13.1,Partly Cloudy,Autumn,October,2022,518.53
+2022-10-05,19.1,66.3,8.7,8.6,Drizzle,Autumn,October,2022,526.72
+2022-10-06,14.4,76.6,7.2,12.8,Drizzle,Autumn,October,2022,505.44
+2022-10-07,20.0,86.9,4.3,5.5,Cloudy,Autumn,October,2022,532.93
+2022-10-08,16.6,61.7,4.4,8.8,Partly Cloudy,Autumn,October,2022,481.88
+2022-10-09,22.2,57.0,12.3,15.7,Drizzle,Autumn,October,2022,524.79
+2022-10-10,13.9,70.4,1.7,16.1,Partly Cloudy,Autumn,October,2022,505.1
+2022-10-11,21.2,73.8,13.7,16.5,Drizzle,Autumn,October,2022,544.26
+2022-10-12,16.6,66.2,8.4,15.0,Drizzle,Autumn,October,2022,511.88
+2022-10-13,14.0,79.6,4.3,11.5,Partly Cloudy,Autumn,October,2022,505.31
+2022-10-14,14.5,57.3,4.9,14.7,Partly Cloudy,Autumn,October,2022,506.05
+2022-10-15,15.0,73.5,2.4,12.8,Partly Cloudy,Autumn,October,2022,476.99
+2022-10-16,17.3,63.2,11.2,6.9,Drizzle,Autumn,October,2022,484.98
+2022-10-17,17.6,81.8,5.8,11.1,Cloudy,Autumn,October,2022,516.53
+2022-10-18,14.3,83.9,3.1,19.4,Cloudy,Autumn,October,2022,505.15
+2022-10-19,15.9,61.9,7.3,22.9,Drizzle,Autumn,October,2022,509.48
+2022-10-20,22.4,63.6,43.7,18.3,Rainy,Autumn,October,2022,557.01
+2022-10-21,21.2,74.9,4.6,22.7,Partly Cloudy,Autumn,October,2022,544.05
+2022-10-22,17.3,64.9,20.3,15.4,Rainy,Autumn,October,2022,485.28
+2022-10-23,16.1,67.6,3.4,23.7,Partly Cloudy,Autumn,October,2022,480.08
+2022-10-24,16.4,68.2,0.5,14.739492242595203,Partly Cloudy,Autumn,October,2022,510.78
+2022-10-25,17.8,52.6,1.8,6.3,Partly Cloudy,Autumn,October,2022,518.24
+2022-10-26,12.9,67.9,4.3,16.1,Partly Cloudy,Autumn,October,2022,504.68
+2022-10-27,15.2,62.5,2.0,15.4,Partly Cloudy,Autumn,October,2022,507.39
+2022-10-28,11.0,64.1,0.0,12.9,Partly Cloudy,Autumn,October,2022,506.89
+2022-10-29,17.2,79.5,19.7,17.5,Rainy,Autumn,October,2022,484.68
+2022-10-30,17.9,57.9,14.9,15.2,Drizzle,Autumn,October,2022,488.83
+2022-10-31,14.6,74.5,10.8,11.3,Drizzle,Autumn,October,2022,505.42
+2022-11-01,12.7,71.8,1.3,14.739492242595203,Partly Cloudy,Autumn,November,2022,571.32
+2022-11-02,4.3,71.8,0.9,21.0,Partly Cloudy,Autumn,November,2022,617.25
+2022-11-03,3.6,80.3,0.5,15.9,Cloudy,Autumn,November,2022,624.77
+2022-11-04,8.7,76.7,9.0,18.1,Drizzle,Autumn,November,2022,582.23
+2022-11-05,11.1,78.6,18.5,13.6,Rainy,Autumn,November,2022,543.7
+2022-11-06,13.1,81.7,3.9,17.3,Cloudy,Autumn,November,2022,540.66
+2022-11-07,6.6,71.3,0.9,9.0,Partly Cloudy,Autumn,November,2022,596.26
+2022-11-08,11.2,69.1,5.0,12.5,Partly Cloudy,Autumn,November,2022,573.43
+2022-11-09,7.9,65.3,3.0,14.5,Partly Cloudy,Autumn,November,2022,586.88
+2022-11-10,7.5,67.4,3.3,8.6,Partly Cloudy,Autumn,November,2022,589.43
+2022-11-11,15.139844851904092,97.6,6.8,10.8,Cloudy,Autumn,November,2022,536.26
+2022-11-12,10.0,84.0,5.653808180535966,16.6,Cloudy,Autumn,November,2022,546.31
+2022-11-13,3.3,63.2,0.8,15.6,Partly Cloudy,Autumn,November,2022,597.92
+2022-11-14,12.4,63.4,0.3,19.0,Partly Cloudy,Autumn,November,2022,571.57
+2022-11-15,12.1,77.9,36.2,12.0,Rainy,Autumn,November,2022,571.95
+2022-11-16,6.1,78.4,1.9,15.3,Partly Cloudy,Autumn,November,2022,600.29
+2022-11-17,9.2,78.4,0.4,11.6,Partly Cloudy,Autumn,November,2022,579.88
+2022-11-18,9.5,72.0,1.5,18.5,Partly Cloudy,Autumn,November,2022,578.5
+2022-11-19,8.8,73.0,0.3,21.0,Partly Cloudy,Autumn,November,2022,551.78
+2022-11-20,6.3,76.6,3.5,17.4,Partly Cloudy,Autumn,November,2022,568.86
+2022-11-21,6.0,74.7,11.4,20.3,Drizzle,Autumn,November,2022,600.81
+2022-11-22,7.9,56.2,2.9,15.2,Partly Cloudy,Autumn,November,2022,587.21
+2022-11-23,11.5,72.2,4.1,19.0,Partly Cloudy,Autumn,November,2022,572.67
+2022-11-24,9.6,67.2,7.9,15.4,Drizzle,Autumn,November,2022,578.49
+2022-11-25,6.9,75.4,5.0,9.9,Partly Cloudy,Autumn,November,2022,593.7
+2022-11-26,10.3,97.9,13.8,14.739492242595203,Cloudy,Autumn,November,2022,545.75
+2022-11-27,-0.5,64.25148095909732,5.653808180535966,10.0,Snowy,Autumn,November,2022,650.94
+2022-11-28,11.4,71.5,0.1,26.7,Partly Cloudy,Autumn,November,2022,573.1
+2022-11-29,2.8,81.4,10.5,13.3,Cloudy,Autumn,November,2022,634.01
+2022-11-30,6.9,77.9,5.653808180535966,18.2,Partly Cloudy,Autumn,November,2022,593.9
+2022-12-01,-2.4,80.4,27.0,14.9,Rainy,Winter,December,2022,893.22
+2022-12-02,-2.9,64.25148095909732,4.0,8.8,Snowy,Winter,December,2022,904.48
+2022-12-03,4.5,93.5,26.0,5.5,Rainy,Winter,December,2022,735.29
+2022-12-04,-0.4,68.0,8.4,18.7,Snowy,Winter,December,2022,815.96
+2022-12-05,2.0,80.8,1.7,22.7,Cloudy,Winter,December,2022,807.22
+2022-12-06,0.9,69.6,4.6,11.3,Partly Cloudy,Winter,December,2022,825.55
+2022-12-07,2.4,81.4,29.1,6.7,Rainy,Winter,December,2022,800.66
+2022-12-08,1.2,69.7,11.7,13.4,Drizzle,Winter,December,2022,820.79
+2022-12-09,-2.8,73.7,0.6,10.3,Snowy,Winter,December,2022,901.61
+2022-12-10,4.0,74.6,7.4,11.7,Drizzle,Winter,December,2022,742.05
+2022-12-11,-0.5,84.8,2.5,18.1,Snowy,Winter,December,2022,818.13
+2022-12-12,-3.7,84.3,0.0,14.7,Snowy,Winter,December,2022,923.65
+2022-12-13,-0.3,67.0,3.1,10.9,Snowy,Winter,December,2022,848.64
+2022-12-14,5.5,77.4,1.6,17.9,Partly Cloudy,Winter,December,2022,757.59
+2022-12-15,3.6,71.3,10.3,18.3,Drizzle,Winter,December,2022,781.84
+2022-12-16,-0.0,66.9,2.5,14.739492242595203,Snowy,Winter,December,2022,842.28
+2022-12-17,-0.0,75.3,10.5,15.7,Snowy,Winter,December,2022,807.77
+2022-12-18,0.0,74.5,0.0,17.6,Partly Cloudy,Winter,December,2022,808.46
+2022-12-19,7.2,96.4,2.2,17.1,Cloudy,Winter,December,2022,739.97
+2022-12-20,2.1,80.5,1.7,15.2,Cloudy,Winter,December,2022,805.63
+2022-12-21,2.3,66.0,1.6,22.2,Partly Cloudy,Winter,December,2022,801.92
+2022-12-22,4.1,72.5,0.4,17.9,Partly Cloudy,Winter,December,2022,775.2
+2022-12-23,1.7,85.2,1.2,12.7,Cloudy,Winter,December,2022,812.04
+2022-12-24,0.2,93.7,4.9,12.8,Cloudy,Winter,December,2022,804.53
+2022-12-25,0.4,64.3,2.1,12.2,Partly Cloudy,Winter,December,2022,800.66
+2022-12-26,0.8,62.0,3.2,14.739492242595203,Partly Cloudy,Winter,December,2022,827.57
+2022-12-27,0.9,92.0,2.8,11.9,Cloudy,Winter,December,2022,825.79
+2022-12-28,3.2,80.1,12.5,12.9,Cloudy,Winter,December,2022,787.94
+2022-12-29,1.2,70.1,14.1,20.3,Drizzle,Winter,December,2022,820.17
+2022-12-30,3.2,81.3,4.1,16.0,Cloudy,Winter,December,2022,788.06
+2022-12-31,0.8,55.9,2.4,21.0,Partly Cloudy,Winter,December,2022,792.84
+2023-01-01,-1.8,75.0,0.6,19.0,Snowy,Winter,January,2023,870.38
+2023-01-02,-8.0,77.6,15.3,9.1,Rainy,Winter,January,2023,1066.0
+2023-01-03,0.7,82.4,0.3,14.5,Cloudy,Winter,January,2023,854.93
+2023-01-04,-1.0,66.9,1.8,19.9,Snowy,Winter,January,2023,887.95
+2023-01-05,1.0,75.7,1.8,8.9,Partly Cloudy,Winter,January,2023,849.04
+2023-01-06,-10.7,67.6,1.9,17.1,Snowy,Winter,January,2023,1152.91
+2023-01-07,4.3,77.0,0.9,14.8,Partly Cloudy,Winter,January,2023,762.79
+2023-01-08,-2.4,67.8,7.6,6.2,Snowy,Winter,January,2023,883.22
+2023-01-09,1.3,71.7,0.7,15.6,Partly Cloudy,Winter,January,2023,843.99
+2023-01-10,-5.1,67.0,5.0,10.8,Snowy,Winter,January,2023,983.71
+2023-01-11,-0.2,80.2,0.7,9.2,Snowy,Winter,January,2023,871.87
+2023-01-12,-5.2,81.9,0.4,15.0,Snowy,Winter,January,2023,986.84
+2023-01-13,-3.9,73.1,12.0,14.739492242595203,Snowy,Winter,January,2023,953.54
+2023-01-14,3.7,75.3,1.1,11.6,Partly Cloudy,Winter,January,2023,771.68
+2023-01-15,-2.6,63.4,8.6,27.8,Snowy,Winter,January,2023,888.16
+2023-01-16,-1.3,72.6,3.9,18.3,Snowy,Winter,January,2023,893.48
+2023-01-17,0.6,74.6,0.4,10.6,Partly Cloudy,Winter,January,2023,856.44
+2023-01-18,-0.5,96.0,15.6,22.0,Rainy,Winter,January,2023,877.36
+2023-01-19,-1.5,66.1,1.4,10.0,Snowy,Winter,January,2023,897.71
+2023-01-20,-0.9,86.7,9.8,12.2,Snowy,Winter,January,2023,885.52
+2023-01-21,5.2,83.0,0.9,9.3,Cloudy,Winter,January,2023,751.72
+2023-01-22,-2.2,77.2,9.6,16.3,Snowy,Winter,January,2023,879.12
+2023-01-23,-1.4,89.1,0.1,21.8,Snowy,Winter,January,2023,896.02
+2023-01-24,1.2,78.0,3.6,10.0,Partly Cloudy,Winter,January,2023,845.14
+2023-01-25,1.3,78.1,7.3,4.7,Drizzle,Winter,January,2023,843.92
+2023-01-26,1.6,74.6,13.7,20.5,Drizzle,Winter,January,2023,838.28
+2023-01-27,-0.1,84.8,12.0,22.8,Snowy,Winter,January,2023,869.74
+2023-01-28,-5.4,83.8,8.6,5.0,Snowy,Winter,January,2023,957.09
+2023-01-29,2.9,70.0,11.0,17.3,Drizzle,Winter,January,2023,783.1
+2023-01-30,-5.4,64.25148095909732,1.1,16.1,Snowy,Winter,January,2023,991.5
+2023-01-31,-1.1,73.4,1.7,11.1,Snowy,Winter,January,2023,889.76
+2023-02-01,-1.3,65.6,1.4,8.0,Snowy,Winter,February,2023,869.19
+2023-02-02,0.8,71.5,1.9,20.0,Partly Cloudy,Winter,February,2023,827.76
+2023-02-03,2.0,81.9,2.0,15.9,Cloudy,Winter,February,2023,806.78
+2023-02-04,2.0,68.3,3.1,16.3,Partly Cloudy,Winter,February,2023,772.09
+2023-02-05,2.3,71.7,0.7,11.9,Partly Cloudy,Winter,February,2023,767.22
+2023-02-06,5.8,72.5,4.7,11.0,Partly Cloudy,Winter,February,2023,754.47
+2023-02-07,2.4,78.8,0.7,2.7,Partly Cloudy,Winter,February,2023,800.07
+2023-02-08,0.3,54.0,1.5,13.9,Partly Cloudy,Winter,February,2023,836.68
+2023-02-09,3.9,67.1,2.8,22.2,Partly Cloudy,Winter,February,2023,777.96
+2023-02-10,4.6,73.7,6.4,10.5,Drizzle,Winter,February,2023,768.38
+2023-02-11,-2.7,81.6,5.4,7.4,Snowy,Winter,February,2023,865.36
+2023-02-12,2.8,68.1,4.1,17.2,Partly Cloudy,Winter,February,2023,759.56
+2023-02-13,3.1,57.0,0.7,18.1,Partly Cloudy,Winter,February,2023,789.6
+2023-02-14,0.1,77.0,3.2,12.1,Partly Cloudy,Winter,February,2023,840.81
+2023-02-15,5.1,66.9,0.4,13.3,Partly Cloudy,Winter,February,2023,762.58
+2023-02-16,0.5,62.5,1.9,16.3,Partly Cloudy,Winter,February,2023,833.62
+2023-02-17,1.4,67.0,2.1,14.2,Partly Cloudy,Winter,February,2023,816.85
+2023-02-18,0.5,70.5,0.2,20.0,Partly Cloudy,Winter,February,2023,798.55
+2023-02-19,1.0,67.2,1.3,27.2,Partly Cloudy,Winter,February,2023,789.98
+2023-02-20,-2.3,54.4,12.5,6.5,Snowy,Winter,February,2023,890.72
+2023-02-21,-3.3,79.2,12.3,21.1,Snowy,Winter,February,2023,913.59
+2023-02-22,5.8,82.2,1.7,15.5,Cloudy,Winter,February,2023,753.99
+2023-02-23,-1.5,77.2,0.2,21.9,Snowy,Winter,February,2023,872.78
+2023-02-24,-2.0,62.9,0.8,18.6,Snowy,Winter,February,2023,884.18
+2023-02-25,-5.5,70.4,2.0,15.3,Snowy,Winter,February,2023,935.34
+2023-02-26,-0.9,71.9,11.8,18.8,Snowy,Winter,February,2023,825.92
+2023-02-27,-3.0,76.8,0.6,13.0,Snowy,Winter,February,2023,906.93
+2023-02-28,5.9,77.3,5.8,11.1,Drizzle,Winter,February,2023,753.23
+2023-03-01,11.0,59.1,0.7,19.1,Partly Cloudy,Spring,March,2023,573.85
+2023-03-02,5.9,65.7,23.9,10.8,Rainy,Spring,March,2023,602.08
+2023-03-03,14.8,68.7,2.9,18.2,Partly Cloudy,Spring,March,2023,572.53
+2023-03-04,10.9,76.6,9.0,15.2,Drizzle,Spring,March,2023,544.23
+2023-03-05,7.0,70.6,2.5,3.4,Partly Cloudy,Spring,March,2023,563.28
+2023-03-06,0.5,71.3,5.9,12.1,Drizzle,Spring,March,2023,665.66
+2023-03-07,15.139844851904092,64.25148095909732,1.3,16.7,Partly Cloudy,Spring,March,2023,571.45
+2023-03-08,3.8,76.3,0.9,13.0,Partly Cloudy,Spring,March,2023,622.72
+2023-03-09,43.1,68.3,16.7,2.3,Rainy,Spring,March,2023,806.48
+2023-03-10,11.1,58.1,15.0,21.6,Drizzle,Spring,March,2023,573.09
+2023-03-11,15.3,76.2,13.1,15.8,Drizzle,Spring,March,2023,544.25
+2023-03-12,12.2,70.6,5.9,14.739492242595203,Drizzle,Spring,March,2023,541.11
+2023-03-13,9.7,61.5,9.9,12.6,Drizzle,Spring,March,2023,577.75
+2023-03-14,9.8,61.2,0.4,17.7,Partly Cloudy,Spring,March,2023,577.29
+2023-03-15,10.6,67.4,2.4,24.2,Partly Cloudy,Spring,March,2023,574.35
+2023-03-16,10.3,68.7,2.3,11.3,Partly Cloudy,Spring,March,2023,575.43
+2023-03-17,8.8,64.25148095909732,6.1,23.3,Drizzle,Spring,March,2023,582.29
+2023-03-18,8.3,67.5,2.6,17.0,Partly Cloudy,Spring,March,2023,554.74
+2023-03-19,7.8,78.6,1.0,10.7,Partly Cloudy,Spring,March,2023,557.74
+2023-03-20,5.7,73.6,5.4,26.1,Drizzle,Spring,March,2023,603.84
+2023-03-21,7.2,66.5,10.1,17.0,Drizzle,Spring,March,2023,591.29
+2023-03-22,2.9,72.5,2.9,18.4,Partly Cloudy,Spring,March,2023,633.12
+2023-03-23,7.7,56.7,0.9,13.7,Partly Cloudy,Spring,March,2023,588.32
+2023-03-24,5.0,68.2,1.3,11.0,Partly Cloudy,Spring,March,2023,610.29
+2023-03-25,4.7,79.5,1.6,15.8,Partly Cloudy,Spring,March,2023,582.86
+2023-03-26,8.5,63.3,2.1,22.9,Partly Cloudy,Spring,March,2023,553.85
+2023-03-27,12.2,58.2,6.2,13.5,Drizzle,Spring,March,2023,571.3
+2023-03-28,10.8,59.8,5.5,14.9,Drizzle,Spring,March,2023,573.74
+2023-03-29,3.3,56.3,7.1,22.3,Drizzle,Spring,March,2023,628.07
+2023-03-30,5.0,58.7,2.7,13.5,Partly Cloudy,Spring,March,2023,610.26
+2023-03-31,10.8,62.0,10.4,17.6,Drizzle,Spring,March,2023,574.3
+2023-04-01,12.1,48.8,5.653808180535966,19.4,Partly Cloudy,Spring,April,2023,482.88
+2023-04-02,14.3,60.1,5.1,14.0,Drizzle,Spring,April,2023,483.88
+2023-04-03,16.7,67.2,12.9,16.5,Drizzle,Spring,April,2023,520.29
+2023-04-04,12.1,52.7,1.6,18.3,Partly Cloudy,Spring,April,2023,513.24
+2023-04-05,15.3,72.2,0.9,13.0,Partly Cloudy,Spring,April,2023,515.89
+2023-04-06,11.0,64.1,17.2,19.1,Rainy,Spring,April,2023,515.25
+2023-04-07,13.2,68.2,3.4,12.3,Partly Cloudy,Spring,April,2023,512.71
+2023-04-08,16.0,54.7,9.2,11.6,Drizzle,Spring,April,2023,487.59
+2023-04-09,10.2,66.8,0.2,7.4,Partly Cloudy,Spring,April,2023,487.8
+2023-04-10,16.3,51.3,9.4,12.5,Drizzle,Spring,April,2023,519.23
+2023-04-11,14.9,67.1,3.0,10.9,Partly Cloudy,Spring,April,2023,515.12
+2023-04-12,16.7,61.4,0.5,13.0,Partly Cloudy,Spring,April,2023,520.35
+2023-04-13,15.7,64.4,7.5,18.1,Drizzle,Spring,April,2023,516.69
+2023-04-14,19.1,50.6,2.2,6.4,Partly Cloudy,Spring,April,2023,534.59
+2023-04-15,15.4,52.8,3.9,5.1,Partly Cloudy,Spring,April,2023,485.83
+2023-04-16,13.7,64.8,0.7,11.3,Partly Cloudy,Spring,April,2023,483.08
+2023-04-17,15.4,52.4,1.3,17.3,Partly Cloudy,Spring,April,2023,515.75
+2023-04-18,16.6,63.7,2.8,16.4,Partly Cloudy,Spring,April,2023,520.52
+2023-04-19,15.1,49.1,5.653808180535966,11.2,Partly Cloudy,Spring,April,2023,515.63
+2023-04-20,15.1,66.8,19.3,20.8,Rainy,Spring,April,2023,515.42
+2023-04-21,12.9,50.1,0.0,11.7,Partly Cloudy,Spring,April,2023,512.7
+2023-04-22,13.0,64.4,5.3,17.3,Drizzle,Spring,April,2023,482.83
+2023-04-23,10.8,65.0,1.1,13.2,Partly Cloudy,Spring,April,2023,485.72
+2023-04-24,20.2,54.4,2.9,10.7,Partly Cloudy,Spring,April,2023,543.76
+2023-04-25,11.3,64.7,20.8,12.0,Rainy,Spring,April,2023,514.32
+2023-04-26,12.9,62.1,1.4,18.7,Partly Cloudy,Spring,April,2023,512.92
+2023-04-27,12.8,55.7,5.653808180535966,16.8,Rainy,Spring,April,2023,513.14
+2023-04-28,17.7,51.9,1.8,19.8,Partly Cloudy,Spring,April,2023,525.55
+2023-04-29,14.1,44.3,5.653808180535966,16.8,Drizzle,Spring,April,2023,483.51
+2023-04-30,18.7,62.8,6.3,6.9,Drizzle,Spring,April,2023,502.21
+2023-05-01,19.0,45.5,15.1,25.6,Rainy,Spring,May,2023,483.76
+2023-05-02,21.8,58.8,5.7,14.739492242595203,Drizzle,Spring,May,2023,508.92
+2023-05-03,18.5,55.9,5.4,17.6,Drizzle,Spring,May,2023,480.47
+2023-05-04,27.4,63.4,1.5,13.1,Partly Cloudy,Spring,May,2023,606.58
+2023-05-05,17.4,55.6,1.3,20.6,Partly Cloudy,Spring,May,2023,474.37
+2023-05-06,21.9,55.4,5.653808180535966,9.5,Rainy,Spring,May,2023,479.91
+2023-05-07,22.9,63.9,2.8,18.0,Partly Cloudy,Spring,May,2023,490.89
+2023-05-08,22.2,60.7,3.3,4.6,Partly Cloudy,Spring,May,2023,513.25
+2023-05-09,20.4,60.5,10.0,18.4,Drizzle,Spring,May,2023,495.46
+2023-05-10,20.6,61.8,2.9,9.6,Partly Cloudy,Spring,May,2023,496.97
+2023-05-11,21.1,45.7,21.3,16.4,Rainy,Spring,May,2023,501.82
+2023-05-12,20.6,64.1,9.4,21.8,Drizzle,Spring,May,2023,496.54
+2023-05-13,23.9,62.9,5.653808180535966,19.1,Drizzle,Spring,May,2023,503.22
+2023-05-14,27.6,49.9,14.9,21.1,Drizzle,Spring,May,2023,559.92
+2023-05-15,19.3,56.0,0.4,20.6,Partly Cloudy,Spring,May,2023,486.36
+2023-05-16,16.9,57.7,2.1,12.4,Partly Cloudy,Spring,May,2023,471.52
+2023-05-17,20.7,56.9,4.4,18.0,Partly Cloudy,Spring,May,2023,498.09
+2023-05-18,28.7,60.7,1.8,6.4,Sunny,Spring,May,2023,625.96
+2023-05-19,18.6,64.25148095909732,9.5,11.6,Drizzle,Spring,May,2023,481.08
+2023-05-20,25.9,66.7,17.6,22.0,Rainy,Spring,May,2023,556.91
+2023-05-21,26.0,47.5,3.9,13.1,Partly Cloudy,Spring,May,2023,533.54
+2023-05-22,19.3,63.0,2.9,5.7,Partly Cloudy,Spring,May,2023,486.45
+2023-05-23,22.7,68.6,22.8,25.1,Rainy,Spring,May,2023,518.6
+2023-05-24,25.9,61.1,4.1,17.8,Partly Cloudy,Spring,May,2023,578.25
+2023-05-25,19.9,66.7,4.7,18.8,Partly Cloudy,Spring,May,2023,490.53
+2023-05-26,15.139844851904092,64.25148095909732,3.0,10.1,Partly Cloudy,Spring,May,2023,509.08
+2023-05-27,19.3,66.2,16.8,14.739492242595203,Rainy,Spring,May,2023,455.75
+2023-05-28,18.0,60.0,5.9,16.3,Drizzle,Spring,May,2023,447.03
+2023-05-29,19.1,66.4,10.1,14.739492242595203,Drizzle,Spring,May,2023,484.25
+2023-05-30,17.3,59.2,5.653808180535966,14.2,Drizzle,Spring,May,2023,473.78
+2023-05-31,21.1,58.2,2.9,7.5,Partly Cloudy,Spring,May,2023,501.58
+2023-06-01,24.7,52.2,2.3,13.3,Partly Cloudy,Summer,June,2023,673.64
+2023-06-02,27.7,67.5,7.5,19.9,Drizzle,Summer,June,2023,764.31
+2023-06-03,22.3,48.5,1.8,11.3,Partly Cloudy,Summer,June,2023,599.89
+2023-06-04,28.0,67.3,6.3,24.5,Drizzle,Summer,June,2023,729.64
+2023-06-05,29.5,59.0,11.3,7.8,Sunny,Summer,June,2023,787.17
+2023-06-06,21.0,43.8,3.9,13.7,Partly Cloudy,Summer,June,2023,625.97
+2023-06-07,28.1,57.9,5.4,11.7,Sunny,Summer,June,2023,753.49
+2023-06-08,30.7,38.2,6.5,14.1,Sunny,Summer,June,2023,798.43
+2023-06-09,23.4,60.0,7.5,21.9,Drizzle,Summer,June,2023,654.12
+2023-06-10,15.139844851904092,62.1,2.0,10.1,Sunny,Summer,June,2023,695.45
+2023-06-11,28.3,50.3,0.2,12.7,Sunny,Summer,June,2023,701.38
+2023-06-12,24.9,56.0,2.1,18.3,Partly Cloudy,Summer,June,2023,676.82
+2023-06-13,26.8,70.6,4.5,15.5,Partly Cloudy,Summer,June,2023,752.78
+2023-06-14,28.7,51.0,2.4,15.9,Sunny,Summer,June,2023,752.29
+2023-06-15,15.139844851904092,46.5,5.5,10.2,Drizzle,Summer,June,2023,696.03
+2023-06-16,28.6,66.9,1.8,14.6,Sunny,Summer,June,2023,782.6
+2023-06-17,24.2,70.7,4.0,20.7,Partly Cloudy,Summer,June,2023,625.77
+2023-06-18,27.5,55.0,0.8,7.0,Partly Cloudy,Summer,June,2023,694.42
+2023-06-19,22.8,63.1,5.5,11.5,Drizzle,Summer,June,2023,646.01
+2023-06-20,26.7,65.7,3.2,5.9,Partly Cloudy,Summer,June,2023,740.37
+2023-06-21,24.3,49.1,0.9,17.7,Partly Cloudy,Summer,June,2023,667.38
+2023-06-22,24.8,51.1,1.4,21.1,Partly Cloudy,Summer,June,2023,675.27
+2023-06-23,30.7,64.8,5.5,14.1,Sunny,Summer,June,2023,828.61
+2023-06-24,30.3,68.5,2.6,10.0,Sunny,Summer,June,2023,785.18
+2023-06-25,28.8,59.5,1.0,10.1,Sunny,Summer,June,2023,731.69
+2023-06-26,23.7,48.0,13.7,13.5,Drizzle,Summer,June,2023,658.78
+2023-06-27,26.1,70.9,5.0,13.5,Partly Cloudy,Summer,June,2023,739.55
+2023-06-28,30.6,50.8,12.6,19.6,Sunny,Summer,June,2023,797.96
+2023-06-29,27.4,52.3,2.2,11.7,Partly Cloudy,Summer,June,2023,727.56
+2023-06-30,34.0,57.7,2.6,17.2,Sunny,Summer,June,2023,907.34
+2023-07-01,32.2,64.4,6.8,13.5,Sunny,Summer,July,2023,794.05
+2023-07-02,31.6,58.8,2.2,11.3,Sunny,Summer,July,2023,766.11
+2023-07-03,30.1,55.3,3.7,13.3,Sunny,Summer,July,2023,760.63
+2023-07-04,31.4,55.7,0.9,16.7,Sunny,Summer,July,2023,795.15
+2023-07-05,30.5,52.3,1.8,19.6,Sunny,Summer,July,2023,765.15
+2023-07-06,15.139844851904092,56.5,0.4,13.7,Sunny,Summer,July,2023,711.84
+2023-07-07,15.139844851904092,31.8,0.7,9.0,Sunny,Summer,July,2023,718.05
+2023-07-08,28.6,49.6,0.0,20.0,Sunny,Summer,July,2023,674.76
+2023-07-09,27.0,53.9,0.1,10.5,Partly Cloudy,Summer,July,2023,648.81
+2023-07-10,25.5,42.8,11.4,16.3,Drizzle,Summer,July,2023,653.6
+2023-07-11,32.5,55.1,5.653808180535966,14.9,Sunny,Summer,July,2023,824.59
+2023-07-12,27.7,50.4,3.3,14.2,Partly Cloudy,Summer,July,2023,696.25
+2023-07-13,24.5,66.0,5.5,12.6,Drizzle,Summer,July,2023,637.58
+2023-07-14,32.2,64.6,2.4,18.1,Sunny,Summer,July,2023,834.84
+2023-07-15,38.5,48.3,0.5,0.0,Sunny,Summer,July,2023,974.05
+2023-07-16,31.0,50.8,3.9,20.7,Sunny,Summer,July,2023,733.98
+2023-07-17,33.5,51.4,2.8,10.4,Sunny,Summer,July,2023,846.42
+2023-07-18,31.2,48.4,3.9,17.0,Sunny,Summer,July,2023,778.65
+2023-07-19,30.7,53.6,4.4,16.8,Sunny,Summer,July,2023,772.55
+2023-07-20,33.8,45.9,11.1,21.4,Sunny,Summer,July,2023,852.23
+2023-07-21,30.1,43.0,2.6,16.0,Sunny,Summer,July,2023,750.37
+2023-07-22,31.8,57.0,1.3,14.739492242595203,Sunny,Summer,July,2023,768.14
+2023-07-23,32.0,57.0,3.1,7.0,Sunny,Summer,July,2023,773.36
+2023-07-24,29.0,45.6,0.2,13.3,Sunny,Summer,July,2023,723.91
+2023-07-25,34.0,59.2,6.8,5.2,Sunny,Summer,July,2023,877.19
+2023-07-26,30.5,46.9,0.4,11.9,Sunny,Summer,July,2023,759.93
+2023-07-27,28.7,54.0,1.2,13.5,Sunny,Summer,July,2023,725.52
+2023-07-28,32.6,58.6,5.1,11.6,Sunny,Summer,July,2023,834.42
+2023-07-29,28.3,51.7,2.7,15.2,Sunny,Summer,July,2023,671.28
+2023-07-30,31.1,55.6,1.5,13.8,Sunny,Summer,July,2023,746.34
+2023-07-31,31.0,47.9,1.9,13.4,Sunny,Summer,July,2023,772.78
+2023-08-01,33.3,52.4,7.7,2.9,Sunny,Summer,August,2023,850.29
+2023-08-02,31.4,64.25148095909732,1.7,8.5,Sunny,Summer,August,2023,820.99
+2023-08-03,29.9,48.0,8.2,18.2,Sunny,Summer,August,2023,753.76
+2023-08-04,32.5,52.6,0.4,19.0,Sunny,Summer,August,2023,827.27
+2023-08-05,34.2,41.6,6.0,5.8,Sunny,Summer,August,2023,832.58
+2023-08-06,31.7,50.1,7.5,10.9,Sunny,Summer,August,2023,759.53
+2023-08-07,30.0,51.7,0.8,20.4,Sunny,Summer,August,2023,759.7
+2023-08-08,26.1,52.0,2.3,11.4,Partly Cloudy,Summer,August,2023,676.39
+2023-08-09,26.8,52.1,0.7,14.4,Partly Cloudy,Summer,August,2023,690.08
+2023-08-10,29.1,53.5,4.9,22.2,Sunny,Summer,August,2023,741.53
+2023-08-11,28.2,57.8,3.1,13.2,Sunny,Summer,August,2023,730.02
+2023-08-12,29.4,61.0,4.0,12.5,Sunny,Summer,August,2023,723.67
+2023-08-13,30.2,48.8,0.9,14.2,Sunny,Summer,August,2023,720.19
+2023-08-14,31.6,44.4,1.0,24.3,Sunny,Summer,August,2023,797.24
+2023-08-15,29.8,45.7,0.2,17.2,Sunny,Summer,August,2023,751.03
+2023-08-16,31.5,64.25148095909732,1.6,15.1,Sunny,Summer,August,2023,823.14
+2023-08-17,30.2,51.2,3.3,12.4,Sunny,Summer,August,2023,763.31
+2023-08-18,24.1,47.8,7.8,17.7,Drizzle,Summer,August,2023,639.23
+2023-08-19,27.2,64.25148095909732,5.653808180535966,18.3,Partly Cloudy,Summer,August,2023,681.87
+2023-08-20,29.6,50.4,2.3,9.6,Sunny,Summer,August,2023,706.36
+2023-08-21,26.4,55.5,12.2,18.4,Drizzle,Summer,August,2023,689.07
+2023-08-22,31.8,58.8,5.1,14.2,Sunny,Summer,August,2023,820.6
+2023-08-23,34.6,49.5,10.6,15.1,Sunny,Summer,August,2023,885.93
+2023-08-24,33.7,50.7,3.0,10.6,Sunny,Summer,August,2023,858.92
+2023-08-25,29.4,46.6,1.2,13.0,Sunny,Summer,August,2023,741.24
+2023-08-26,34.5,53.7,0.2,9.8,Sunny,Summer,August,2023,849.56
+2023-08-27,30.4,47.2,5.2,9.6,Sunny,Summer,August,2023,725.83
+2023-08-28,29.0,58.6,0.5,16.9,Sunny,Summer,August,2023,749.6
+2023-08-29,28.2,39.7,1.4,13.2,Sunny,Summer,August,2023,714.13
+2023-08-30,29.1,51.1,3.0,8.5,Sunny,Summer,August,2023,736.74
+2023-08-31,28.8,56.4,3.3,25.9,Sunny,Summer,August,2023,740.98
+2023-09-01,24.5,61.5,5.5,9.4,Drizzle,Autumn,September,2023,516.41
+2023-09-02,24.5,81.5,1.1,20.5,Cloudy,Autumn,September,2023,486.16
+2023-09-03,24.0,62.8,2.9,7.6,Partly Cloudy,Autumn,September,2023,479.68
+2023-09-04,25.3,52.0,5.8,17.3,Drizzle,Autumn,September,2023,530.78
+2023-09-05,27.6,59.2,21.0,13.7,Rainy,Autumn,September,2023,578.22
+2023-09-06,26.8,45.8,7.8,11.9,Drizzle,Autumn,September,2023,551.48
+2023-09-07,15.139844851904092,59.4,15.4,16.0,Rainy,Autumn,September,2023,477.05
+2023-09-08,16.3,53.3,8.6,15.3,Drizzle,Autumn,September,2023,444.37
+2023-09-09,26.8,67.3,5.4,10.9,Drizzle,Autumn,September,2023,547.05
+2023-09-10,19.9,55.6,1.3,10.7,Partly Cloudy,Autumn,September,2023,435.83
+2023-09-11,23.3,59.1,6.6,7.1,Drizzle,Autumn,September,2023,500.91
+2023-09-12,20.5,54.9,5.9,16.5,Drizzle,Autumn,September,2023,470.9
+2023-09-13,18.6,73.9,5.5,8.7,Drizzle,Autumn,September,2023,456.13
+2023-09-14,25.6,57.4,4.0,15.0,Partly Cloudy,Autumn,September,2023,543.45
+2023-09-15,26.3,74.7,4.5,18.0,Partly Cloudy,Autumn,September,2023,579.84
+2023-09-16,22.3,66.5,2.4,16.0,Partly Cloudy,Autumn,September,2023,458.76
+2023-09-17,16.2,63.9,4.4,11.4,Partly Cloudy,Autumn,September,2023,413.89
+2023-09-18,22.4,62.9,1.3,19.5,Partly Cloudy,Autumn,September,2023,489.8
+2023-09-19,25.2,63.2,9.8,13.0,Drizzle,Autumn,September,2023,545.82
+2023-09-20,19.6,44.6,1.2,8.3,Partly Cloudy,Autumn,September,2023,463.12
+2023-09-21,24.6,57.8,0.5,13.6,Partly Cloudy,Autumn,September,2023,517.28
+2023-09-22,24.0,66.8,3.4,17.9,Partly Cloudy,Autumn,September,2023,509.22
+2023-09-23,25.7,59.6,6.4,11.6,Drizzle,Autumn,September,2023,518.38
+2023-09-24,24.4,48.8,3.5,19.4,Partly Cloudy,Autumn,September,2023,484.61
+2023-09-25,21.1,59.6,1.9,11.1,Partly Cloudy,Autumn,September,2023,476.4
+2023-09-26,27.6,73.6,4.9,11.8,Partly Cloudy,Autumn,September,2023,599.97
+2023-09-27,23.5,70.0,2.6,9.8,Partly Cloudy,Autumn,September,2023,503.39
+2023-09-28,15.139844851904092,59.5,16.2,14.739492242595203,Rainy,Autumn,September,2023,513.49
+2023-09-29,21.2,67.6,15.4,14.7,Rainy,Autumn,September,2023,477.53
+2023-09-30,22.7,57.1,4.2,10.1,Partly Cloudy,Autumn,September,2023,463.29
+2023-10-01,13.3,54.4,3.2,13.0,Partly Cloudy,Autumn,October,2023,474.81
+2023-10-02,15.139844851904092,60.6,10.7,0.0,Drizzle,Autumn,October,2023,509.85
+2023-10-03,21.1,80.5,0.3,18.9,Cloudy,Autumn,October,2023,543.52
+2023-10-04,11.9,65.8,5.2,14.1,Drizzle,Autumn,October,2023,505.07
+2023-10-05,11.2,66.1,3.3,3.0,Partly Cloudy,Autumn,October,2023,506.12
+2023-10-06,20.4,65.6,20.3,7.7,Rainy,Autumn,October,2023,536.88
+2023-10-07,15.4,83.2,0.1,12.9,Cloudy,Autumn,October,2023,477.46
+2023-10-08,14.0,81.0,6.4,8.4,Cloudy,Autumn,October,2023,474.87
+2023-10-09,19.1,85.8,10.8,19.0,Cloudy,Autumn,October,2023,526.48
+2023-10-10,14.2,66.7,5.3,17.1,Drizzle,Autumn,October,2023,505.04
+2023-10-11,21.5,70.4,0.7,16.8,Partly Cloudy,Autumn,October,2023,547.0
+2023-10-12,18.0,55.9,28.7,2.0,Rainy,Autumn,October,2023,519.35
+2023-10-13,14.5,79.8,5.8,12.4,Drizzle,Autumn,October,2023,505.95
+2023-10-14,22.5,58.7,7.6,11.5,Drizzle,Autumn,October,2023,527.68
+2023-10-15,14.2,69.7,2.2,10.2,Partly Cloudy,Autumn,October,2023,475.04
+2023-10-16,18.2,59.2,5.3,12.9,Drizzle,Autumn,October,2023,520.5
+2023-10-17,16.9,63.3,4.5,9.4,Partly Cloudy,Autumn,October,2023,513.25
+2023-10-18,19.9,61.3,0.6,16.1,Partly Cloudy,Autumn,October,2023,532.55
+2023-10-19,20.7,63.1,0.9,18.8,Partly Cloudy,Autumn,October,2023,539.33
+2023-10-20,16.1,63.7,14.5,18.4,Drizzle,Autumn,October,2023,509.93
+2023-10-21,13.7,63.6,2.2,14.3,Partly Cloudy,Autumn,October,2023,474.98
+2023-10-22,17.4,74.7,1.7,25.0,Partly Cloudy,Autumn,October,2023,485.56
+2023-10-23,14.0,59.2,5.6,20.7,Drizzle,Autumn,October,2023,504.66
+2023-10-24,22.0,69.8,11.7,14.5,Drizzle,Autumn,October,2023,552.73
+2023-10-25,16.4,77.7,0.5,12.6,Partly Cloudy,Autumn,October,2023,511.19
+2023-10-26,14.9,63.9,6.9,21.7,Drizzle,Autumn,October,2023,506.47
+2023-10-27,16.6,62.3,1.0,20.0,Partly Cloudy,Autumn,October,2023,511.55
+2023-10-28,12.0,66.2,0.3,14.739492242595203,Partly Cloudy,Autumn,October,2023,474.72
+2023-10-29,13.1,77.4,0.4,20.4,Partly Cloudy,Autumn,October,2023,474.28
+2023-10-30,19.6,69.6,14.4,14.2,Drizzle,Autumn,October,2023,530.11
+2023-10-31,14.0,63.8,1.0,10.7,Partly Cloudy,Autumn,October,2023,505.18
+2023-11-01,15.139844851904092,77.9,0.3,5.1,Partly Cloudy,Autumn,November,2023,488.0
+2023-11-02,9.6,65.2,5.653808180535966,13.7,Partly Cloudy,Autumn,November,2023,578.31
+2023-11-03,11.6,79.5,13.0,14.9,Drizzle,Autumn,November,2023,571.98
+2023-11-04,10.2,77.3,2.1,22.9,Partly Cloudy,Autumn,November,2023,545.6
+2023-11-05,11.0,71.5,3.8,19.8,Partly Cloudy,Autumn,November,2023,543.5
+2023-11-06,5.7,67.3,0.3,12.1,Partly Cloudy,Autumn,November,2023,603.77
+2023-11-07,3.7,66.9,4.2,16.9,Partly Cloudy,Autumn,November,2023,623.87
+2023-11-08,12.5,78.3,6.0,19.1,Drizzle,Autumn,November,2023,571.28
+2023-11-09,7.0,83.8,5.9,15.4,Cloudy,Autumn,November,2023,593.33
+2023-11-10,7.2,68.9,2.8,12.1,Partly Cloudy,Autumn,November,2023,592.03
+2023-11-11,12.0,77.7,2.7,12.3,Partly Cloudy,Autumn,November,2023,541.6
+2023-11-12,9.7,57.3,0.8,16.9,Partly Cloudy,Autumn,November,2023,547.56
+2023-11-13,9.4,69.3,3.2,17.1,Partly Cloudy,Autumn,November,2023,578.81
+2023-11-14,14.5,73.8,0.7,13.5,Partly Cloudy,Autumn,November,2023,572.28
+2023-11-15,6.1,66.7,10.2,1.9,Drizzle,Autumn,November,2023,599.84
+2023-11-16,10.8,66.5,23.7,8.5,Rainy,Autumn,November,2023,573.98
+2023-11-17,8.2,68.7,24.6,18.1,Rainy,Autumn,November,2023,584.97
+2023-11-18,8.8,76.3,14.0,4.3,Drizzle,Autumn,November,2023,551.98
+2023-11-19,12.6,72.5,6.4,20.9,Drizzle,Autumn,November,2023,541.07
+2023-11-20,9.5,56.1,8.4,20.2,Drizzle,Autumn,November,2023,578.85
+2023-11-21,9.6,57.0,2.4,15.2,Partly Cloudy,Autumn,November,2023,578.35
+2023-11-22,11.2,69.1,7.0,14.739492242595203,Drizzle,Autumn,November,2023,573.28
+2023-11-23,6.9,77.7,4.3,17.6,Partly Cloudy,Autumn,November,2023,593.84
+2023-11-24,5.5,52.0,4.6,14.4,Partly Cloudy,Autumn,November,2023,605.17
+2023-11-25,15.139844851904092,70.0,5.653808180535966,8.1,Drizzle,Autumn,November,2023,458.05
+2023-11-26,2.1,69.8,2.3,19.8,Partly Cloudy,Autumn,November,2023,613.09
+2023-11-27,14.2,85.1,2.7,22.0,Cloudy,Autumn,November,2023,571.59
+2023-11-28,4.7,70.9,18.1,9.0,Rainy,Autumn,November,2023,612.87
+2023-11-29,7.3,77.1,0.4,7.9,Partly Cloudy,Autumn,November,2023,591.24
+2023-11-30,7.2,75.1,4.7,14.3,Partly Cloudy,Autumn,November,2023,591.38
+2023-12-01,1.9,60.0,14.6,11.9,Drizzle,Winter,December,2023,808.74
+2023-12-02,3.4,83.1,5.7,15.7,Cloudy,Winter,December,2023,751.03
+2023-12-03,3.6,78.7,4.7,21.0,Partly Cloudy,Winter,December,2023,747.59
+2023-12-04,-0.7,81.1,1.7,3.8,Snowy,Winter,December,2023,856.08
+2023-12-05,0.5,100.0,2.5,22.9,Cloudy,Winter,December,2023,833.19
+2023-12-06,1.8,60.3,11.5,13.0,Drizzle,Winter,December,2023,810.62
+2023-12-07,0.3,90.8,4.9,17.6,Cloudy,Winter,December,2023,836.56
+2023-12-08,5.8,74.7,4.3,18.1,Partly Cloudy,Winter,December,2023,754.32
+2023-12-09,2.5,79.3,0.6,18.7,Partly Cloudy,Winter,December,2023,764.09
+2023-12-10,3.2,76.6,0.1,15.3,Partly Cloudy,Winter,December,2023,753.62
+2023-12-11,3.0,73.6,19.9,16.5,Rainy,Winter,December,2023,790.98
+2023-12-12,4.5,72.4,2.8,16.4,Partly Cloudy,Winter,December,2023,770.11
+2023-12-13,1.5,79.6,5.5,11.8,Drizzle,Winter,December,2023,815.68
+2023-12-14,-2.9,64.9,0.5,6.2,Snowy,Winter,December,2023,904.42
+2023-12-15,2.2,83.0,6.9,8.9,Cloudy,Winter,December,2023,803.61
+2023-12-16,-1.0,73.7,16.2,14.5,Rainy,Winter,December,2023,828.51
+2023-12-17,-0.6,68.0,5.1,11.1,Snowy,Winter,December,2023,820.09
+2023-12-18,2.8,73.4,0.8,11.1,Partly Cloudy,Winter,December,2023,793.79
+2023-12-19,4.7,87.1,5.2,24.0,Cloudy,Winter,December,2023,767.48
+2023-12-20,1.1,72.7,8.7,19.3,Drizzle,Winter,December,2023,822.01
+2023-12-21,1.9,79.9,3.1,13.7,Partly Cloudy,Winter,December,2023,808.77
+2023-12-22,6.1,71.2,12.7,18.4,Drizzle,Winter,December,2023,750.87
+2023-12-23,1.7,83.1,6.3,12.9,Cloudy,Winter,December,2023,777.59
+2023-12-24,8.8,82.5,13.8,15.6,Cloudy,Winter,December,2023,692.1
+2023-12-25,2.7,91.8,5.9,17.2,Cloudy,Winter,December,2023,795.65
+2023-12-26,-4.3,75.6,0.8,12.9,Snowy,Winter,December,2023,938.42
+2023-12-27,3.3,82.3,2.2,11.6,Cloudy,Winter,December,2023,786.27
+2023-12-28,2.1,77.8,1.4,21.1,Partly Cloudy,Winter,December,2023,805.61
+2023-12-29,15.139844851904092,87.4,14.4,18.1,Cloudy,Winter,December,2023,623.54
+2023-12-30,3.0,71.2,8.6,3.7,Drizzle,Winter,December,2023,756.74
+2023-12-31,0.6,83.0,6.8,11.7,Cloudy,Winter,December,2023,796.73
