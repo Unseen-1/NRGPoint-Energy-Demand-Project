@@ -54,7 +54,7 @@ NRGPoint plans power procurement based on flat historical averages, without fact
 ## 🖥️ Dashboard Preview
 
 **Executive Summary**
-![Executive Summary](PowerBi/P1%20Executive%20Summary.png)
+![Executive Summary](PowerBi/P1%20Executive%20Dashboard.png)
 
 See `PowerBI/` folder for Operational Analysis and Manager Insights pages.
 
